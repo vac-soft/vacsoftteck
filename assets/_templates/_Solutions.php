@@ -269,85 +269,85 @@
               <div class=img>
                 <a href="#popup1">
                   <img src="https://img.freepik.com/free-vector/smartphone-tablet-voice-assistant-communication-app-isometric-illustration_1284-57290.jpg?w=740&t=st=1669724291~exp=1669724891~hmac=b3cb639cbda46d51c8503d827e83c55229039a898cd642d41fe235c44aec075f">
-                </a>
               </div>
               <div class="details">
                 <h2>IVR</h2>
               </div>
+              </a>
             </div>
 
             <div class="product-card">
               <div class=img>
                 <a href="#Customer_care">
                   <img src="https://img.freepik.com/free-vector/flat-illustration-customer-support_23-2148878580.jpg?w=740&t=st=1669806578~exp=1669807178~hmac=16967d98e2bfbceee29283b6b98c6a47a414f74dd3505d653df7c8a7b399a75d">
-                </a>
               </div>
               <div class="details">
                 <h2>Customer Care</h2>
               </div>
+              </a>
             </div>
             <div class="product-card">
               <div class=img>
                 <a href="#cloud_service">
                   <img src="https://img.freepik.com/premium-vector/abstract-cloud-technology-system-sci-fi-background_115579-771.jpg?w=740">
-                </a>
               </div>
               <div class="details">
                 <h2>Cloud Service</h2>
               </div>
+              </a>
             </div>
 
             <div class="product-card">
               <div class=img>
                 <a href="#firewall">
                   <img src="https://img.freepik.com/free-vector/computer-data-protection-laptop-with-shield-data-safety-isometric-icon_39422-667.jpg?w=740&t=st=1669723474~exp=1669724074~hmac=6b3f735e57fae937dfb1426fff09390f92935ff33b55d063af18a17fee45950c">
-                </a>
               </div>
               <div class="details">
                 <h2>Fire Wall</h2>
               </div>
+              </a>
             </div>
             <div class="product-card">
               <div class=img>
                 <a href="#popup1">
                   <img src="https://img.freepik.com/free-vector/smart-home-concept-illustration_114360-6366.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais">
-                </a>
               </div>
               <div class="details">
                 <h2>Remote Dialer</h2>
               </div>
+              </a>
             </div>
 
             <div class="product-card">
               <div class=img>
                 <a href="#popup1">
                   <img src="https://img.freepik.com/premium-vector/smart-home-control-buttons-smartphone_24911-63843.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais">
-                </a>
               </div>
               <div class="details">
                 <h2>Remote IPPBX</h2>
               </div>
+              </a>
             </div>
             <div class="product-card">
               <div class=img>
                 <a href="#Third party">
                   <img src="https://img.freepik.com/free-vector/cross-platform-software-concept-illustration_114360-7293.jpg?t=st=1669787212~exp=1669787812~hmac=6c4ec56893c9762a373359abcb10341fcc3d1e134612aeed657ee3770fb593cc">
-                </a>
               </div>
               <div class="details">
                 <h2>Third Party Software</h2>
               </div>
+              </a>
             </div>
 
             <div class="product-card">
               <div class=img>
                 <a href="#Gateway">
                   <img src="https://img.freepik.com/free-vector/cloud-hosting-concept-illustration_114360-4347.jpg?size=626&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=sph">
-                </a>
               </div>
               <div class="details">
                 <h2>GSM / PRI Gateway</h2>
               </div>
+              </a>
             </div>
           </div>
         </div>

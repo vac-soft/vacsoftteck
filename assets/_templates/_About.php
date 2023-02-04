@@ -33,15 +33,15 @@
           </p>
 
           <h3>You</h3>
-          
+
           <p>
             <li>Once satisfied, confirm your requirements.</li>
           </p>
 
-	 <P >
-<li>No obligation or commitment.</li>
+          <P>
+            <li>No obligation or commitment.</li>
           </p>
-<h3>B'coz</h3>
+          <h3>B'coz</h3>
 
           <strong>
             <h4>We provide solutions</h4>
