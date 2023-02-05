@@ -56,7 +56,7 @@
                                     <div class="dropdown">
                                         <li><a href="../../PRODUCTS.php#IVR Systemr" class="dropdown-item" type="button">IVR</a></li>
                                     </div>
-                                 
+
                                     <div class="dropdown">
                                         <li><a href="../../PRODUCTS.php#Customer Care" class="dropdown-item" type="button">Customer Care</a></li>
                                     </div>
@@ -131,7 +131,7 @@
                         </ul>
                     </div>
                 </li>
-                <li><a class="nav-link scrollto" href="../../price/">Pricing</a></li>
+                <li><a class="nav-link scrollto" href="../../price">Pricing</a></li>
                 <li><a class="nav-link scrollto" href="../../#contact">ContactUS</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
