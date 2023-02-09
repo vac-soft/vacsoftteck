@@ -7,6 +7,9 @@ include "assets/load.php";
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="description" content="VAC SOFTTECK has a range of products tailor made to suit customer requirements like IP PBX , Contact Center Solutions, Call Center Solutions, IVR, Voice Logger, Dialer and a powerful CRM that can cater to any vertical. The supply chain is supported efficiently by a 24/7 strong support team.">
+  <meta name="keywords" content="VACSoftteck, Good tele communication company, Good service company, Good customer support">
+
 
   <title>VAC Softteck</title>
   <meta content="" name="description">

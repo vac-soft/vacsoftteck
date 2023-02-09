@@ -23,7 +23,11 @@
 
         <li> CRM Integration.<a class="link-primary" href="../../PRODUCTS.php#Call Center Dialer">More Details</a></li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -43,8 +47,11 @@
         <li> Dynamic Reports. <a class="link-primary" href="../../PRODUCTS.php#IPPBX">More Details</a>
         </li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
-
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -60,8 +67,11 @@
         <p><a class="link-primary" href="../../PRODUCTS.php#IPPBX">More Details</a></p>
         </i>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
-
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -85,7 +95,11 @@
           <p><a class="link-primary" href="../../PRODUCTS.php#CRM">More Details</a></p>
         </li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -102,7 +116,11 @@
         <li> Enterprises can connect all branches. <a class="link-primary" href="../../PRODUCTS.php#leads">More Details</a>
         </li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -121,7 +139,11 @@
         <li> A network-based firewall is usually a dedicated system with proprietary software installed. <a class="link-primary" href="../../PRODUCTS.php#fire wall  ">More Details</a>
         </li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -139,7 +161,11 @@
         <li> What is the cloud?..<a class="link-primary" href="../../PRODUCTS.php#cloud service">More Details</a>
         </li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -159,7 +185,11 @@
 
         <li> Integrated with our CRM can throw pop-up of the caller details. <a class="link-primary" href="../../PRODUCTS.php#Call Center Dialer">More Details</a></li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -180,7 +210,11 @@
 
         <li> Boosts customer retention.</li> -->
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -200,7 +234,11 @@
 
         <li> line and in turn seizes one of the GSM SIM cards and out dials the number.<a class="link-primary" href="../../PRODUCTS.php#Call Center Dialer">More Details</a></li>
       </ul>
-      <div class="card-icone"><button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" id="card-btn" class="bi bi-chat"></button> <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a></div>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
       </span>
     </div>
 
@@ -286,7 +324,8 @@
               </div>
               </a>
             </div>
-            <div class="product-card">
+            
+            <!-- <div class="product-card">
               <div class=img>
                 <a href="#cloud_service">
                   <img src="https://img.freepik.com/premium-vector/abstract-cloud-technology-system-sci-fi-background_115579-771.jpg?w=740">
@@ -295,7 +334,7 @@
                 <h2>Cloud Service</h2>
               </div>
               </a>
-            </div>
+            </div> -->
 
             <div class="product-card">
               <div class=img>
