@@ -51,7 +51,6 @@
                             </button>
                         </div>
                     </div>
-                    <!-- <div class="call-cloud-img"></div> -->
                 </div>
             </div>
 

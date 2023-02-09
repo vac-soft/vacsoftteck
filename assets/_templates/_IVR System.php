@@ -46,9 +46,6 @@
                                     <td colspan="3">Number Choices ?? <br> No – Its on your number</td>
                                 </tr>
                             </table>
-                            <!-- <p>VAC IVR System provides a facility to use a computer to exchange information automatically with a person through a telephone. VAC IVR systems retrieve information requested by callers and present it in a variety of ways, such as a recorded or synthesized voice, fax, web page or even an email. Thru IVR system one can collect customer responses and facilitate two-way dialogues. Automated speech recognition (ASR) takes IVR systems to the next level. Gather customer information and match it with data from your CRM and back-office systems to deliver personalized, conversational service. It can be customized for almost any situation imaginable to accommodate callers’ requests.</p> -->
-                            <!-- <br> -->
-                            <!-- <p>VAC IVR Application creates IVR tree through framework which includes methodologies, tools and process for script creation on customer ideas, execution, external database integeration and reports. The system is designed for high reliability.</p> -->
                         </div>
                     </div>
                     <div>
