@@ -12,9 +12,6 @@ include "assets/load.php";
 
 
   <title>VAC Softteck</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
   <!-- Favicons -->
   <link href="./assets/img/favicon.ico" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -331,7 +328,7 @@ include "assets/load.php";
     load_template('_Solutions');
     ?>
 
-    <section id="why-us" class="why-us">
+    <!-- <section id="why-us" class="why-us">
       <div class="container-fluid">
 
         <div class="row">
@@ -397,7 +394,7 @@ include "assets/load.php";
         </div>
 
       </div>
-    </section>
+    </section> -->
 
     <!-- End Testimonials Section -->
 
