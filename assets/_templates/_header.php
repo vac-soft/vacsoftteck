@@ -18,6 +18,10 @@
                             <div class="dropdown">
                                 <div class="dropdown">
                                     <li><a class="dropdown-item" type="button">Cloud</a></li>
+
+                                    <!-- <a href="../../../VAC_Softtech/products.php" class="dropdown-item" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                                        
+                                    </a> -->
                                 </div>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                     <div class="dropdown">
@@ -47,10 +51,10 @@
                                         <li><a href="../../products.php#IPPBX" class="dropdown-item" type="button">IP PBX</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IPPX" class="dropdown-item" type="button">Complete Business Suite</a></li>
+                                        <li><a href="../../products.php#Complete Business Suite" class="dropdown-item" type="button">Complete Business Suite</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IVR Systemr" class="dropdown-item" type="button">IVR</a></li>
+                                        <li><a href="../../products.php#IVR System" class="dropdown-item" type="button">IVR</a></li>
                                     </div>
 
                                     <div class="dropdown">
@@ -62,6 +66,12 @@
                                     <div class="dropdown">
                                         <li><a href="../../products.php#SMS Solution" class="dropdown-item" type="button">Bulks SMS</a></li>
                                     </div>
+                                    <!-- <div class="dropdown">
+                                        <a href="../../../VAC_Softtech/products.php" class="nav-link scrollto" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Customer Care
+                                        </a>
+                                    </div> -->
+
                                 </ul>
                             </div>
                             <div class="dropdown">
@@ -70,6 +80,7 @@
                                         On Premises
                                     </a>
                                 </div>
+                                <!-- <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">On Premises</a></li> -->
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                     <div class="dropdown">
                                         <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Call Center Dialer</a></li>

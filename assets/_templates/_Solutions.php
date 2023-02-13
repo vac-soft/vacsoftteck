@@ -21,7 +21,7 @@
 
         <li> Live Monitoring.</li>
 
-        <li> CRM Integration.<a class="link-primary" href="../../PRODUCTS.php#Call Center Dialer">More Details</a></li>
+        <li> CRM Integration.<a class="link-primary" href="../../products.php#Call Center Dialer">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -30,6 +30,34 @@
       </div>
       </span>
     </div>
+
+    <!-- VAC Remote Dialer -->
+    <div id="Remote Dialer" class="popup">
+      <a href="#Products" class="close">&times;</a>
+      <h2>Remote Dialer</h2>
+      <ul>
+        <li> Dynamic IVR.</li>
+
+        <li> Call Queue.</li>
+
+        <li> Skill based routing.</li>
+
+        <li> Call Recording.</li>
+
+        <li> Work From Home.</li>
+
+        <li> Live Monitoring.</li>
+
+        <li> CRM Integration.<a class="link-primary" href="../../products.php#Remote Dailer">More Details</a></li>
+      </ul>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
+      </span>
+    </div>
+
 
     <!-- VAC IPBX -->
 
@@ -44,7 +72,31 @@
         <!-- <li>data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us".</li> -->
         <li> Use Android phone as wireless extension.</li>
         <li> Enterprises can connect all branches.</li>
-        <li> Dynamic Reports. <a class="link-primary" href="../../PRODUCTS.php#IPPBX">More Details</a>
+        <li> Dynamic Reports. <a class="link-primary" href="../../products.php#IPPBX">More Details</a>
+        </li>
+      </ul>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
+      </span>
+    </div>
+
+    <!-- VAC remote IPBX -->
+
+    <div id="remote IPPBX" class="popup">
+      <a href="#Products" class="close">&times;</a>
+      <h2>Remote IPPBX</h2>
+      <ul>
+        <li> Ranges from 10 to 1000 or more users.</li>
+        <li> No dependency on conventional proprietary EPABX.</li>
+        <li> Connect PRI / SIP / Analog Trunks or GSM.</li>
+        <li> Use IP Phones / Softphones using No need for additional telephone wiring.</li>
+        <!-- <li>data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us".</li> -->
+        <li> Use Android phone as wireless extension.</li>
+        <li> Enterprises can connect all branches.</li>
+        <li> Dynamic Reports. <a class="link-primary" href="../../products.php#Remote PBX">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -64,7 +116,7 @@
         <li> Use your existing PRI / SIP / Analog Trunks or GSM effectively;</li>
 
         <li> Integrate contact center solution and PBX.</li>
-        <p><a class="link-primary" href="../../PRODUCTS.php#IPPBX">More Details</a></p>
+        <p><a class="link-primary" href="../../products.php#IPPBX">More Details</a></p>
         </i>
       </ul>
       <div class="card-icone">
@@ -92,7 +144,7 @@
         <li> Real Estate Management.</li>
 
         <li> Integrated with our CRM can throw pop-up of the caller details.
-          <p><a class="link-primary" href="../../PRODUCTS.php#CRM">More Details</a></p>
+          <p><a class="link-primary" href="../../products.php#CRM">More Details</a></p>
         </li>
       </ul>
       <div class="card-icone">
@@ -113,7 +165,7 @@
         <li> Assign Leads based on performance.</li>
         <li> Allows more time to sell.</li>
         <li> Leads can be assigned to sales team based on their performance and product knowledge.</li>
-        <li> Enterprises can connect all branches. <a class="link-primary" href="../../PRODUCTS.php#leads">More Details</a>
+        <li> Enterprises can connect all branches. <a class="link-primary" href="../../products.php#leads">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -136,7 +188,7 @@
         <li> Firewalls block the incoming traffic by looking into the source of the traffic.</li>
         <li> Network firewall function on network level.</li>
         <li> A Network firewall might have two or more network interface cards (NICs). </li>
-        <li> A network-based firewall is usually a dedicated system with proprietary software installed. <a class="link-primary" href="../../PRODUCTS.php#fire wall  ">More Details</a>
+        <li> A network-based firewall is usually a dedicated system with proprietary software installed. <a class="link-primary" href="../../products.php#fire wall  ">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -158,7 +210,7 @@
         <li> Cloud services are designed to provide easy, scalable access to applications, resources and services.</li>
         <li> The cloud is made up of servers in data centers all over the world.</li>
         <li> Moving to the cloud can save companies money and add convenience for users. </li>
-        <li> What is the cloud?..<a class="link-primary" href="../../PRODUCTS.php#cloud service">More Details</a>
+        <li> What is the cloud?..<a class="link-primary" href="../../products.php#cloud service">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -183,7 +235,7 @@
 
         <li> You can also set dynamic routing with CRM assistance thru IVR.</li>
 
-        <li> Integrated with our CRM can throw pop-up of the caller details. <a class="link-primary" href="../../PRODUCTS.php#Call Center Dialer">More Details</a></li>
+        <li> Integrated with our CRM can throw pop-up of the caller details. <a class="link-primary" href="../../products.php#Call Center Dialer">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -199,7 +251,7 @@
       <a href="#Products" class="close">&times;</a>
       <h2>Third Party Software</h2>
       <ul>
-        <li> We can provide API for interrogating any third party softeware.</li>
+        <li> We can provide API for interrogating any third party softeware.<a class="link-primary" href="../../products.php#Third Party">More Details</a></li>
         <!-- <li> With Third party software you can Includes the necessary featurs in your softeware</li> -->
 
         <!-- <li> Attaches Familiar Applications.</li>
@@ -232,7 +284,7 @@
 
         <li> When the EPABX extensions seize the PRI to out dial, the gateway accepts the request via the PRI.</li>
 
-        <li> line and in turn seizes one of the GSM SIM cards and out dials the number.<a class="link-primary" href="../../PRODUCTS.php#Call Center Dialer">More Details</a></li>
+        <li> line and in turn seizes one of the GSM SIM cards and out dials the number.<a class="link-primary" href="../../products.php#Gateway">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -324,7 +376,7 @@
               </div>
               </a>
             </div>
-            
+
             <!-- <div class="product-card">
               <div class=img>
                 <a href="#cloud_service">
@@ -348,7 +400,7 @@
             </div>
             <div class="product-card">
               <div class=img>
-                <a href="#popup1">
+                <a href="#Remote Dialer">
                   <img src="https://img.freepik.com/free-vector/smart-home-concept-illustration_114360-6366.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais">
               </div>
               <div class="details">
@@ -359,7 +411,7 @@
 
             <div class="product-card">
               <div class=img>
-                <a href="#popup1">
+                <a href="#remote IPPBX">
                   <img src="https://img.freepik.com/premium-vector/smart-home-control-buttons-smartphone_24911-63843.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais">
               </div>
               <div class="details">

@@ -95,6 +95,7 @@
                                 <p>IP Subscribers : 30,60,100,200,300,500,700 & 1000.</p>
                             </div>
                         </div>
+                        <!-- v30-U -->
                         <div class="collapse" id="v30-U">
                             <div>
                                 <h5>IP PBX : 30 Users</h5>
@@ -223,6 +224,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- v60-U -->
                         <div class="collapse" id="v60-U">
                             <div>
                                 <h5>IP PBX : 60 Users</h5>
@@ -351,6 +353,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- v100-U -->
                         <div class="collapse" id="v100-U">
                             <div>
                                 <h5>IP PBX : 100 Users</h5>
@@ -372,6 +375,7 @@
                                 <br>
                                 <br>
                                 <h1>Product Features</h1>
+                                <!-- <li>Auto Hardware Detection</li> -->
                                 <div class="callaction">
                                     <ul>
                                         <li>Auto Hardware Detection</li>
@@ -480,6 +484,7 @@
 
                             </div>
                         </div>
+                        <!-- v200-U -->
                         <div class="collapse" id="v200-U">
                             <div>
                                 <h5>IP PBX : 200 Users</h5>
@@ -608,6 +613,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- v300-U -->
                         <div class="collapse" id="v300-U">
                             <div>
                                 <h5>IP PBX : 300 Users</h5>
@@ -736,6 +742,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- v500-U -->
                         <div class="collapse" id="v500-U">
                             <div>
                                 <h5>IP PBX : 500 Users</h5>
@@ -864,6 +871,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- v700-U -->
                         <div class="collapse" id="v700-U">
                             <div>
                                 <h5>IP PBX : 700 Users</h5>
@@ -992,6 +1000,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- v1000-U -->
                         <div class="collapse" id="v1000-U">
                             <div>
                                 <h5>IP PBX : 1000 Users</h5>

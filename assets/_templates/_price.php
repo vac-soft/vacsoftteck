@@ -18,6 +18,10 @@
                             <div class="dropdown">
                                 <div class="dropdown">
                                     <li><a class="dropdown-item" type="button">Cloud</a></li>
+
+                                    <!-- <a href="../../../VAC_Softtech/PRODUCTS.php" class="dropdown-item" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                                        
+                                    </a> -->
                                 </div>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                     <div class="dropdown">
@@ -62,6 +66,12 @@
                                     <div class="dropdown">
                                         <li><a href="../../PRODUCTS.php#SMS Solution" class="dropdown-item" type="button">Bulks SMS</a></li>
                                     </div>
+                                    <!-- <div class="dropdown">
+                                        <a href="../../../VAC_Softtech/PRODUCTS.php" class="nav-link scrollto" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Customer Care
+                                        </a>
+                                    </div> -->
+
                                 </ul>
                             </div>
                             <div class="dropdown">
@@ -70,6 +80,7 @@
                                         On Premises
                                     </a>
                                 </div>
+                                <!-- <li><a href="../../PRODUCTS.php#Call Center Dialer" class="dropdown-item" type="button">On Premises</a></li> -->
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                     <div class="dropdown">
                                         <li><a href="../../PRODUCTS.php#Call Center Dialer" class="dropdown-item" type="button">Call Center Dialer</a></li>
@@ -128,7 +139,19 @@
     </div>
 
 </header>
-
+<!-- <div class="selector">
+    <h1 class="price-header">Price Details</h1>
+    <div class="row">
+        <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
+            <ul id="portfolio-flters">
+                <li data-filter="*" class="filter-active">All</li>
+                <li data-filter=".filter-app">App</li>
+                <li data-filter=".filter-card">Card</li>
+                <li data-filter=".filter-web">Web</li>
+            </ul>
+        </div>
+    </div>
+</div> -->
 <section class="price-main">
     <h1 class="price-header">Price Details</h1>
     <!-- <div class="row">
@@ -240,6 +263,33 @@
                                     </ul>
                                 </div>
                             </div>
+                            <!-- <div class="image">
+                            <img src="images/3.jpg" alt="">
+                        </div> -->
+
+                            <!-- <div class="media-icons">
+                            <i class="fab fa-facebook"></i>
+                            <i class="fab fa-twitter"></i>
+                            <i class="fab fa-github"></i>
+                        </div> -->
+
+                            <!-- <div class="name-profession">
+                            <span class="name">Kylie Smith</span> -->
+                            <!-- <span class="profession">UX/UI Desinger</span>
+                        </div> -->
+
+                            <!-- <div class="rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="far fa-star"></i>
+                        </div> -->
+
+                            <!-- <div class="button"> -->
+                            <!-- <button class="aboutMe">About Me</button> -->
+                            <!-- <button class="hireMe">Hire Me</button> -->
+                            <!-- </div> -->
                         </div>
                     </div>
                     <div class="swiper-slide card">
@@ -259,6 +309,33 @@
                                         <li>App for Agents to update the call details as additional</li>
                                     </ul>
                                 </div>
+                            </div>
+                            <!-- <div class="image">
+                            <img src="images/4.jpg" alt="">
+                        </div> -->
+                            <!-- 
+                        <div class="media-icons">
+                            <i class="fab fa-facebook"></i>
+                            <i class="fab fa-twitter"></i>
+                            <i class="fab fa-github"></i>
+                        </div> -->
+
+                            <!-- <div class="name-profession">
+                            <span class="name">Stephanie Xia</span> -->
+                            <!-- <span class="profession">Backend Developer</span>
+                        </div> -->
+
+                            <!-- <div class="rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="far fa-star"></i>
+                        </div> -->
+
+                            <div class="button">
+                                <!-- <button class="aboutMe">About Me</button> -->
+                                <!-- <button class="hireMe">Hire Me</button> -->
                             </div>
                         </div>
                     </div>
@@ -281,6 +358,29 @@
                                     </ul>
                                 </div>
                             </div>
+                            <!-- <div class="image">
+                            <img src="images/5.jpg" alt="">
+                        </div> -->
+
+                            <!-- <div class="media-icons">
+                            <i class="fab fa-facebook"></i>
+                            <i class="fab fa-twitter"></i>
+                            <i class="fab fa-github"></i>
+                        </div> -->
+
+                            <!-- <div class="name-profession">
+                            <span class="name">Jordan Tapp</span> -->
+                            <!-- <span class="profession">Network Engineer</span>
+                        </div> -->
+
+                            <!-- <div class="rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="far fa-star"></i>
+                        </div> -->
+
                             <div class="button">
                                 <!-- <button class="aboutMe">About Me</button> -->
                                 <!-- <button class="hireMe">Hire Me</button> -->
@@ -305,6 +405,29 @@
                                     </ul>
                                 </div>
                             </div>
+                            <!-- <div class="image">
+                            <img src="images/6.jpg" alt="">
+                        </div> -->
+
+                            <!-- <div class="media-icons">
+                            <i class="fab fa-facebook"></i>
+                            <i class="fab fa-twitter"></i>
+                            <i class="fab fa-github"></i>
+                        </div> -->
+
+                            <!-- <div class="name-profession">
+                            <span class="name">Caroline Parker</span> -->
+                            <!-- <span class="profession">Systems Analyst</span>
+                        </div> -->
+
+                            <!-- <div class="rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div> -->
+
                             <div class="button">
                                 <!-- <button class="aboutMe">About Me</button> -->
                                 <!-- <button class="hireMe">Hire Me</button> -->
@@ -328,15 +451,45 @@
                                         <li>Additional Features and customizations</li>
                                         <li>Various verticals like Hospitals, Real Estate, Logistics etc</li>
                                         <li>Advanced Reports</li>
+                                        <!-- <li>All PBX features</li>
+                                        <li>99% Uptime</li> -->
                                     </ul>
+                                    <!-- <div class="btn-wrap">
+                                  <a href="#" class="btn-buy">Buy Now</a>
+                                </div> -->
                                 </div>
                             </div>
+                            <!-- <div class="image">
+                            <img src="images/7.jpg" alt="">
+                        </div> -->
+
+                            <!-- <div class="media-icons">
+                            <i class="fab fa-facebook"></i>
+                            <i class="fab fa-twitter"></i>
+                            <i class="fab fa-github"></i>
+                        </div> -->
+
+                            <!-- <div class="name-profession">
+                            <span class="name">Maddie Crox</span> -->
+                            <!-- <span class="profession">Frontend Developer</span>
+                        </div> -->
+
+                            <!-- <div class="rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="far fa-star"></i>
+                            <i class="far fa-star"></i>
+                        </div> -->
+
                             <div class="button">
                                 <!-- <button class="aboutMe">About Me</button> -->
                                 <!-- <button class="hireMe">Hire Me</button> -->
                             </div>
                         </div>
                     </div>
+
+
                 </div>
             </div>
         </div>
@@ -346,6 +499,7 @@
     </div>
 </section>
 
+<!-- Swiper JS -->
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 <script src="./script.js"></script>
