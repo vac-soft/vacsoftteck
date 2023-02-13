@@ -54,10 +54,19 @@ include "assets/load.php";
     load_template('_Complete Business Suite');
     ?>
     <?php
-    load_template('_Cloud Service')
+    load_template('_Third Party')
     ?>
     <?php
     load_template('_fire wall');
+    ?>
+    <?php
+    load_template('_Gateway');
+    ?>
+    <?php
+    load_template('_remote dailer');
+    ?>
+    <?php
+    load_template('_remote pbx');
     ?>
     <?php
     load_template('_Footer');

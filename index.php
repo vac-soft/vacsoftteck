@@ -7,6 +7,9 @@ include "assets/load.php";
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="description" content="VAC SOFTTECK has a range of products tailor made to suit customer requirements like IP PBX , Contact Center Solutions, Call Center Solutions, IVR, Voice Logger, Dialer and a powerful CRM that can cater to any vertical. The supply chain is supported efficiently by a 24/7 strong support team.">
+  <meta name="keywords" content="VACSoftteck, Good tele communication company, Good service company, Good customer support">
+
 
   <title>VAC Softteck</title>
   <meta content="" name="description">
@@ -251,12 +254,6 @@ include "assets/load.php";
 	c0.003-0.003,0.006-0.006,0.01-0.008C30.838,49.281,30.579,43.096,33.561,38.334z" />
           <path style="fill:rgba(255, 255, 255, 0.2)" d="M2.491,8.982v19.085c0,9.966,4.328,19.577,12.164,25.735c2.773,2.18,6.044,4.055,9.836,5.18v-58
 	C24.491,0.982,17.824,8.982,2.491,8.982z" />
-          <!-- <path style="fill:rgba(255, 255, 255, 0.2);" d="M24.491,59.982c-0.096,0-0.191-0.014-0.284-0.041c-3.581-1.063-7.003-2.863-10.17-5.353
-	C6.181,48.415,1.491,38.5,1.491,28.067V8.982c0-0.553,0.447-1,1-1c14.694,0,21.168-7.563,21.231-7.641
-	c0.381-0.455,1.156-0.455,1.537,0c0.063,0.075,6.604,7.641,21.231,7.641c0.553,0,1,0.447,1,1v19.085
-	c0,10.433-4.69,20.348-12.546,26.521c-3.167,2.489-6.589,4.29-10.17,5.353C24.682,59.968,24.587,59.982,24.491,59.982z M3.491,9.971
-	v18.096c0,9.824,4.404,19.151,11.782,24.949c2.883,2.266,5.982,3.921,9.218,4.921c3.235-1,6.335-2.655,9.218-4.921
-	c7.378-5.798,11.782-15.125,11.782-24.949V9.971c-12.242-0.272-18.865-5.497-21-7.546C22.356,4.474,15.733,9.699,3.491,9.971z"/> -->
           <path style="fill:rgba(255, 255, 255, 0.2);" d="M54.976,36.308l-3.327-3.791c-0.462,4.19-1.66,7.42-1.66,7.42c0-5.532-1.991-10.45-4.547-14.491
 	l-0.408-0.464l-3.249,3.701c-4.191,4.775-5.972,11.258-4.594,17.461c0.012,0.055,0.024,0.109,0.037,0.164
 	c0,0-2.519-3.565-3.667-7.973c-3.125,4.992-2.7,11.552,1.297,16.105c5.354,6.1,14.822,6.144,20.236,0.131
@@ -334,7 +331,7 @@ include "assets/load.php";
     load_template('_Solutions');
     ?>
 
-    <!-- <section id="why-us" class="why-us">
+    <section id="why-us" class="why-us">
       <div class="container-fluid">
 
         <div class="row">
@@ -400,7 +397,7 @@ include "assets/load.php";
         </div>
 
       </div>
-    </section> -->
+    </section>
 
     <!-- End Testimonials Section -->
 
@@ -459,19 +456,7 @@ include "assets/load.php";
 
   <!-- Vendor JS Files -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-  <!-- <script>
-    $(window).load(function() {
-      $(".preloader").delay(5000).fadeOut("slow");
-      $("#overlayer").delay(5000).fadeOut("slow");
-    })
-  </script>
-  <div id="overlayer"></div>
-  <div class="preloader">
-    <div class="loader">
-      <span class="loader-inner"></span>
-    </div>
-    <p>VAC Softteck Loading...</p>
-  </div> -->
+
 
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
