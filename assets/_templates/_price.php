@@ -132,6 +132,7 @@
                     </div>
                 </li>
                 <!-- <li><a class="nav-link scrollto" href="../../price.php">Pricing</a></li> -->
+                <li><a class="nav-link scrollto" href="https://rzp.io/l/iVdsUnsNS">Online Payment</a></li>
                 <li><a class="nav-link scrollto" href="../../#contact">ContactUS</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>

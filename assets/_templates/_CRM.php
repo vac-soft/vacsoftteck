@@ -125,6 +125,24 @@
                     <h3>Invoice :</h3>
                     <br>
                     <p>The capacity to generate invoices, is like an icing on the cake. You are almost at the top of your lead to conversion management using VAC CRM as you can convert your quote to invoice. The approval process allows you to ensure the approval from respective departments and share it with the customer. Invoices prepared can be sent to customers by mail, automatically, in PDF format.</p>
+                    <br>
+                    <h3>Real Estate :</h3>
+                  <ul>
+                    <li> Real estate management is the administration and control of real property</li>
+                    <li> Typically commercial or residential</li>
+                    <li> It involves overseeing</li>
+                    <li> Coordinating various tasks related to the maintenance</li>
+                    <li> Operation of buildings</li>
+                    <li> Including rent collection</li>
+                    <li> Tenant relations</li>
+                    <li> Building maintenance and repairs</li>
+                    <li> Budgeting and financial reporting</li>
+                    <li> Complying with local laws and regulations</li>
+                  </ul>
+                  <br>
+                  <p>The goal of real estate management is to maximize the value of the property and ensure its smooth operation. This requires a good understanding of the local real estate market, as well as the ability to make informed decisions about various aspects of property management, such as tenant selection, rent pricing, and maintenance and repair costs.</p>
+                  <br>
+                  <p>Effective real estate management can help owners and investors achieve their financial goals by increasing property value, reducing costs, and minimizing vacancies. It can also improve the quality of life for tenants by ensuring a well-maintained and safe living or working environment.</P>
                 </div>
 
             </div>
