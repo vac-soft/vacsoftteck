@@ -1,9 +1,9 @@
 <section id="Products" class="portfolio section-bg">
-    <div id="call-container" class="contaner">
-        <div id="Call Center Dialer" class="section-title">
-            <h2 class="call-main-header">Products</h2>
-        </div>
+    <div class="contaner">
         <div id="call-row" class="row">
+            <div id="Call Center Dialer" class="section-title">
+                <h2 class="call-main-header">Products</h2>
+            </div>
             <div class="col-lg-6" data-aos="fade-left">
                 <div id="Call_Center_Dialer" class="Call Center Dialer">
                     <div class="callcenter" style="padding-bottom: 20px;">
@@ -21,7 +21,7 @@
                             control over their functions and will have the confidence that all the data is stored in
                             their own premises.</p>
 
-                        <p>Our call center software has 3 types – inbound, outbound and blended call centers. Our
+                        <p>Our call center software has 3 types - inbound, outbound and blended call centers. Our
                             software allows call recording, live monitoring of calls and reports to make better
                             decisions.</p>
                     </div>

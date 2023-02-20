@@ -18,10 +18,10 @@
                 <strong>Interactive Dashboard :</strong>
                 <br>
                 <br>
-                <p>Its absolutely vibrant. Various reports like individual’s sales funnel, prospects generated, prospects stage, sales revenue, tickets raised for complaints, status of complaints and solution provided and TAT (Turn Around Time) for the same – all in a visual reports and graphical charts which are displayed for ease-of-reference. VAC CRM also provide, at-a glance, insight into business and employee performance, across multiple criteria, facilitating informed business decisions in real time.</p>
+                <p>Its absolutely vibrant. Various reports like individual's sales funnel, prospects generated, prospects stage, sales revenue, tickets raised for complaints, status of complaints and solution provided and TAT (Turn Around Time) for the same – all in a visual reports and graphical charts which are displayed for ease-of-reference. VAC CRM also provide, at-a glance, insight into business and employee performance, across multiple criteria, facilitating informed business decisions in real time.</p>
 
                 <div>
-                    <i class="bi bi-check2-circle"> Sales Pipeline – Individual and the team</i>
+                    <i class="bi bi-check2-circle"> Sales Pipeline - Individual and the team</i>
                     <br>
                     <br>
                     <i class="bi bi-check2-circle"> No. of opportunities by stage</i>
@@ -75,12 +75,27 @@
                         </button>
                     </div>
                 </div>
+                <br>
+                <div>
+                    <h3>Payment Tracker :</h3>
+                    <br>
+                    <p>A ticketing system is a software application used to manage customer support requests and track the progress of those requests. A ticket is a record of a customer's request for assistance, and the ticketing system is used to organize, prioritize, and manage those requests.</p>
+                    <ul>
+                        <li> A ticketing system typically includes a customer-facing portal where customers can submit their requests</li>
+                        <li> A backend interface used by support staff to manage and respond to those requests</li>
+                        <li> The system can also include tools for tracking response times</li>
+                        <li> prioritizing requests, and generating reports on the performance of the support team.</li>
+                    </ul>
+                    <p>Ticketing systems are widely used in customer support and technical support, as well as in other industries such as education, healthcare, and government. They are designed to streamline the support process and improve the efficiency of support teams, allowing them to respond to customer requests more quickly and effectively.</p>
+                    <p>In addition to improving the customer support experience, a well-designed ticketing system can also provide valuable data and insights into customer needs and support operations, which can be used to make informed decisions and drive continuous improvement.</p>
+                </div>
+
             </div>
             <div class="col-lg-6">
                 <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 " data-aos="fade-right">
                     <h3>Calendar :</h3>
                     <br>
-                    <p>Our VAC CRM’s interactive dashboard revolutionizes the way an enterprise manage(s) their(its) business. This includes their calendar, their tasks, their lists and driving productivity throughout your organization and enabling your staff to accomplish more from a tailored workspace that combines the information they use every day. An event, which can be of any type, for example, a scheduled appointment with a prospective customer can also be shared with required information to a senior or a support executive who is required for that appointment. This helps the concerned executive to get prepared for the scheduled meeting. You can even set a reminder. If you have a list of work to be attended by an executive, the same can be prepared under `To Do List’ and can be marked to the respective executive for execution.</p>
+                    <p>Our VAC CRM's interactive dashboard revolutionizes the way an enterprise manage(s) their(its) business. This includes their calendar, their tasks, their lists and driving productivity throughout your organization and enabling your staff to accomplish more from a tailored workspace that combines the information they use every day. An event, which can be of any type, for example, a scheduled appointment with a prospective customer can also be shared with required information to a senior or a support executive who is required for that appointment. This helps the concerned executive to get prepared for the scheduled meeting. You can even set a reminder. If you have a list of work to be attended by an executive, the same can be prepared under `To Do List’ and can be marked to the respective executive for execution.</p>
                     <p class="fst-italic">
 
 
@@ -127,22 +142,22 @@
                     <p>The capacity to generate invoices, is like an icing on the cake. You are almost at the top of your lead to conversion management using VAC CRM as you can convert your quote to invoice. The approval process allows you to ensure the approval from respective departments and share it with the customer. Invoices prepared can be sent to customers by mail, automatically, in PDF format.</p>
                     <br>
                     <h3>Real Estate :</h3>
-                  <ul>
-                    <li> Real estate management is the administration and control of real property</li>
-                    <li> Typically commercial or residential</li>
-                    <li> It involves overseeing</li>
-                    <li> Coordinating various tasks related to the maintenance</li>
-                    <li> Operation of buildings</li>
-                    <li> Including rent collection</li>
-                    <li> Tenant relations</li>
-                    <li> Building maintenance and repairs</li>
-                    <li> Budgeting and financial reporting</li>
-                    <li> Complying with local laws and regulations</li>
-                  </ul>
-                  <br>
-                  <p>The goal of real estate management is to maximize the value of the property and ensure its smooth operation. This requires a good understanding of the local real estate market, as well as the ability to make informed decisions about various aspects of property management, such as tenant selection, rent pricing, and maintenance and repair costs.</p>
-                  <br>
-                  <p>Effective real estate management can help owners and investors achieve their financial goals by increasing property value, reducing costs, and minimizing vacancies. It can also improve the quality of life for tenants by ensuring a well-maintained and safe living or working environment.</P>
+                    <ul>
+                        <li> Real estate management is the administration and control of real property</li>
+                        <li> Typically commercial or residential</li>
+                        <li> It involves overseeing</li>
+                        <li> Coordinating various tasks related to the maintenance</li>
+                        <li> Operation of buildings</li>
+                        <li> Including rent collection</li>
+                        <li> Tenant relations</li>
+                        <li> Building maintenance and repairs</li>
+                        <li> Budgeting and financial reporting</li>
+                        <li> Complying with local laws and regulations</li>
+                    </ul>
+                    <br>
+                    <p>The goal of real estate management is to maximize the value of the property and ensure its smooth operation. This requires a good understanding of the local real estate market, as well as the ability to make informed decisions about various aspects of property management, such as tenant selection, rent pricing, and maintenance and repair costs.</p>
+                    <br>
+                    <p>Effective real estate management can help owners and investors achieve their financial goals by increasing property value, reducing costs, and minimizing vacancies. It can also improve the quality of life for tenants by ensuring a well-maintained and safe living or working environment.</P>
                 </div>
 
             </div>

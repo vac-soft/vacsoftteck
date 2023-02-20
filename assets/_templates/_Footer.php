@@ -8,7 +8,7 @@
                 <div class="col-lg-6">
                     <a href="#header" class="scrollto footer-logo"><img src="assets/img/vac_logo.jpeg" alt=""></a>
                     <h3>VAC Softteck</h3>
-                    <p>We are team of Goddess of Communication</p>
+                    <p>Goddess of Communication</p>
                 </div>
             </div>
 
@@ -21,11 +21,11 @@
             </div>
 
             <div class="social-links">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="https://facebook.com/vacsoftteck" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="https://instagram.com/vacsoftteck" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="https://www.linkedin.com/company/vacsoftteck" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <!-- <a target="_blank" href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
+                <a target="_blank" href="https://facebook.com/vacsoftteck" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a target="_blank" href="https://instagram.com/vacsoftteck" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a target="_blank" href="https://wa.me/9884862743" class="google-plus"><i class="bx bxl-whatsapp"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/company/vacsoftteck" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
 
         </div>
@@ -33,7 +33,7 @@
 
     <div class="container footer-bottom clearfix">
         <div class="copyright">
-            &copy; Copyright <strong><span>VAC Softteck</span></strong>. All Rights Reserved
+            Copyright &copy; <strong><span>VAC Softteck</span></strong>. All Rights Reserved
         </div>
         <!--        <div class="credits">
             Designed by <a>Abdul Fahad</a>
