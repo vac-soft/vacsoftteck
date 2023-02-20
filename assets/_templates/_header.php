@@ -2,7 +2,7 @@
     <div class="container d-flex align-items-center justify-content-center">
 
         <div class="logo">
-            <a href="index.html"><img src="assets/img/logos.png" alt="" class="img-fluid"></a>
+            <a href="index.html"><img src="assets/img/Vac-new-logo.jpg" alt="" class="img-fluid"></a>
         </div>
 
         <nav id="navbar" class="navbar">
@@ -61,10 +61,10 @@
                                         <li><a href="../../products.php#Customer Care" class="dropdown-item" type="button">Customer Care</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#SMS Solution" class="dropdown-item" type="button">VMS</a></li>
+                                        <li><a href="../../products.php#VMS" class="dropdown-item" type="button">VMS</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#SMS Solution" class="dropdown-item" type="button">Bulks SMS</a></li>
+                                        <li><a href="../../products.php#Bulk SMS" class="dropdown-item" type="button">Bulks SMS</a></li>
                                     </div>
                                     <!-- <div class="dropdown">
                                         <a href="../../../VAC_Softtech/products.php" class="nav-link scrollto" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
@@ -118,10 +118,10 @@
                                         <li><a href="../../products.php#Customer Care" class="dropdown-item" type="button">Customer Care</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#SMS Solution" class="dropdown-item" type="button">VMS</a></li>
+                                        <li><a href="../../products.php#VMS" class="dropdown-item" type="button">VMS</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#SMS Solutins" class="dropdown-item" type="button">Bulk SMS</a></li>
+                                        <li><a href="../../products.php#Bulk SMS" class="dropdown-item" type="button">Bulk SMS</a></li>
                                     </div>
                                     <div class="dropdown">
                                         <li><a href="../../products.php#fire wall" class="dropdown-item" type="button">Fire Wall</a></li>
@@ -131,13 +131,19 @@
                         </ul>
                     </div>
                 </li>
-                <li><a class="nav-link scrollto" href="https://rzp.io/l/iVdsUnsNS">Online Payment</a></li>
+                <!-- <li><a class="nav-link scrollto" href="https://rzp.io/l/iVdsUnsNS">Online Payment</a></li> -->
                 <!-- <li><a class="nav-link scrollto" href="../../price.php">Pricing</a></li> -->
                 <li><a class="nav-link scrollto" href="../../#contact">ContactUS</a></li>
+                <div class="payment-button">
+                    <form>
+                        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_LHOoj3iWrDaQ3k" async> </script>
+                    </form>
+                </div>
             </ul>
+
             <i class="bi bi-list mobile-nav-toggle"></i>
 
-            
+
         </nav>
     </div>
 

@@ -24,12 +24,37 @@
         <li> CRM Integration.<a class="link-primary" href="../../products.php#Call Center Dialer">More Details</a></li>
       </ul>
       <div class="card-icone">
-        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
-        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
-        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+        <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a target="_blank" href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a target="_blank" href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
       </div>
       </span>
     </div>
+
+
+    <div id="IVR" class="popup">
+      <a href="#Products" class="close">&times;</a>
+      <h2>IVR</h2>
+      <ul>
+        <li> IVR is phone technology that automates customer service interactions.</li>
+
+        <li> IVR can recognize and respond to voice and touch-tone inputs.</li>
+
+        <li> IVR can be integrated with speech recognition, text-to-speech</li>
+
+        <li> IVR reduces wait times and streamlines tasks for customers and operators.</li>
+
+        <li> IVR helps provide quick and accurate information.<a class="link-primary" href="../../products.php#IVR System">More Details</a></li>
+      </ul>
+      <div class="card-icone">
+        <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a target="_blank" href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a target="_blank" href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
+      </span>
+    </div>
+
+
 
     <!-- VAC Remote Dialer -->
     <div id="Remote Dialer" class="popup">
@@ -51,9 +76,9 @@
         <li> CRM Integration.<a class="link-primary" href="../../products.php#Remote Dailer">More Details</a></li>
       </ul>
       <div class="card-icone">
-        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
-        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
-        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+        <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a target="_blank" href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a target="_blank" href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
       </div>
       </span>
     </div>
@@ -76,9 +101,9 @@
         </li>
       </ul>
       <div class="card-icone">
-        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
-        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
-        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+        <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a target="_blank" href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a target="_blank" href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
       </div>
       </span>
     </div>
@@ -100,9 +125,9 @@
         </li>
       </ul>
       <div class="card-icone">
-        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
-        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
-        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+        <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a target="_blank" href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a target="_blank" href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
       </div>
       </span>
     </div>
@@ -116,7 +141,7 @@
         <li> Use your existing PRI / SIP / Analog Trunks or GSM effectively;</li>
 
         <li> Integrate contact center solution and PBX.</li>
-        <p><a class="link-primary" href="../../products.php#IPPBX">More Details</a></p>
+        <p><a class="link-primary" href="../../products.php#Complete Business Suite">More Details</a></p>
         </i>
       </ul>
       <div class="card-icone">
@@ -150,6 +175,7 @@
       <div class="card-icone">
         <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
         <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+
         <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
       </div>
       </span>
@@ -235,7 +261,7 @@
 
         <li> You can also set dynamic routing with CRM assistance thru IVR.</li>
 
-        <li> Integrated with our CRM can throw pop-up of the caller details. <a class="link-primary" href="../../products.php#Call Center Dialer">More Details</a></li>
+        <li> Integrated with our CRM can throw pop-up of the caller details. <a class="link-primary" href="../../products.php#Customer Care">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -357,7 +383,7 @@
 
             <div class="product-card">
               <div class=img>
-                <a href="#popup1">
+                <a href="#IVR">
                   <img src="https://img.freepik.com/free-vector/smartphone-tablet-voice-assistant-communication-app-isometric-illustration_1284-57290.jpg?w=740&t=st=1669724291~exp=1669724891~hmac=b3cb639cbda46d51c8503d827e83c55229039a898cd642d41fe235c44aec075f">
               </div>
               <div class="details">
