@@ -5,7 +5,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6" data-aos="fade-left">
-                <div id="IPPBX" class="Call Center Dialer">
+                <div class="Call Center Dialer">
                     <div class="callcenter" style="padding-bottom: 20px;">
                         <h4>Benefits</h4>
                     </div>
@@ -30,7 +30,7 @@
                         <p class="fst-italic">
                         <table class="table table-bordered border-primary">
                             <a class="btn " data-bs-toggle="collapse" href="#Detail-info" role="button" aria-expanded="false" aria-controls="collapseExample">
-                                Detail-Info
+                                Detail-Info  
                             </a>
                             <a class="btn " data-bs-toggle="collapse" href="#v30-U" role="button" aria-expanded="false" aria-controls="collapseExample">
                                 30-U

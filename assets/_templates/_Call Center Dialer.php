@@ -6,10 +6,10 @@
             </div>
             <div class="col-lg-6" data-aos="fade-left">
                 <div id="Call_Center_Dialer" class="Call Center Dialer">
-                    <div class="callcenter" style="padding-bottom: 20px;">
+                    <div class="content-header">
                         <h4 class="call-header">Call Center Dialer</h4>
                     </div>
-                    <div class="call-para">
+                    <div class="call-para content-para">
                         <p>Our Call center software helps organizations provide a seamless customer experience across
                             all channels. All interactions thru these channels come to a queue. Our software allows
                             agents to see all previous interaction with that particular customer to enable a quick
@@ -30,7 +30,9 @@
             </div>
             <div class="col-lg-6">
                 <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3" data-aos="fade-right">
-                    <h3 class="call-header">Call Center Solutions:</h3>
+                    <div class="content-header" >
+                        <h4 >Call Center Solutions:</h4>
+                    </div>
                     <div class="image">
                         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                             <div id="carousel-inner" class="carousel-inner">
@@ -59,30 +61,37 @@
         <div id="call-row" class="row" data-aos="fade-left">
             <div class="flex">
                 <div class="col-lg-6">
-                    <h4 class="call-header">In-bound.</h4>
-
-                    <ul style="list-style-position: outside; line-height: 25px; ">
-                        <li> Interactive Voice Response (IVR)</li>
-                        <li> Multi Language Support</li>
-                        <li> Automatic Call Distribution (ACD)</li>
-                        <li> Call Transfer</li>
-                        <li> Call Queue display</li>
-                        <li> Emergency Number pick up</li>
-                        <li> Call Back / Call Me Back Option</li>
-                        <li> Call Conference</li>
-                        <li> CRM Integration</li>
-                        <li> Skill based routing</li>
-                        <li> Sticky Agent</li>
-                    </ul>
+                    <div class="content-header" >
+                        <h4 class="call-header">In-bound.</h4>
+                    </div>
+                    <div class="content-points" >
+                        <ul style="list-style-position: outside; line-height: 25px; ">
+                            <li> Interactive Voice Response (IVR)</li>
+                            <li> Multi Language Support</li>
+                            <li> Automatic Call Distribution (ACD)</li>
+                            <li> Call Transfer</li>
+                            <li> Call Queue display</li>
+                            <li> Emergency Number pick up</li>
+                            <li> Call Back / Call Me Back Option</li>
+                            <li> Call Conference</li>
+                            <li> CRM Integration</li>
+                            <li> Skill based routing</li>
+                            <li> Sticky Agent</li>
+                        </ul>
+                    </div>
                 </div>
                 <div class="col-lg-6">
-                    <h4 class="call-header">Out-bound.</h4>
-                    <ul style="list-style-position: outside; line-height: 25px; ">
-                        <li> Lead upload for multiple campaighns</li>
-                        <li> Setting up call ratio</li>
-                        <li> Predictive / Progressive / manual Dialer</li>
-                        <li> Integration with CRM</li>
-                    </ul>
+                    <div class="content-header" >
+                        <h4 class="call-header">Out-bound.</h4>
+                    </div>
+                    <div class="content-points" >
+                        <ul style="list-style-position: outside; line-height: 25px; ">
+                            <li> Lead upload for multiple campaighns</li>
+                            <li> Setting up call ratio</li>
+                            <li> Predictive / Progressive / manual Dialer</li>
+                            <li> Integration with CRM</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

@@ -1,13 +1,13 @@
 <section id="about" class="about">
   <div class="container">
     <div class="section-title" data-aos="fade-up">
-      <div class="phonenum"><i class="bi bi-telephone"></i> : <a href="tel:044-43512000">044-43512000</a> / <a href="tel:044-35109600">044-35109600</a> <i class="bi bi-phone"></i> : <a href="tel:9884862743">9884862743</a> </div>
+      <div class="phonenum"><i class="bi bi-telephone"> </i> : <a href="tel:044-35109600">044-35109600</a> / <a href="tel:044-43512000">044-43512000</a> <i class="bi bi-phone"></i> : <a href="tel:9884862743">9884862743</a> </div>
       <br>
       <h2>About Us</h2>
-      <p>CRM and Calling Solution Software,</p>
-      <p>To optimize efficiency.</p>
-      <p>Increase customer satisfaction, improve customer loyalty</p>
-      <p>AND to yield better results.</p>
+      <p class="abt-para">CRM and Calling Solution Software,</p>
+      <p class="abt-para">To optimize efficiency.</p>
+      <p class="abt-para">Increase customer satisfaction, improve customer loyalty</p>
+      <p class="abt-para">AND to yield better results.</p>
     </div>
 
     <div class="row">
