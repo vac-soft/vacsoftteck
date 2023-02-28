@@ -75,19 +75,19 @@
 
     </div>
 </section>
-<!-- <?php
-		// if ($_SERVER['REQUEST_METHOD'] == 'GET') {
+<?php
+		if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
-        //     $lastname = $_GET['lastname'];
-		// 	$email = $_GET['email'];
-		// 	$company = $_GET['company'];
-		// 	$phone = $_GET['phone'];
-		// 	$description = $_GET['description'];
-        //     file_get_contents("https://vex.vaccrm.com/VAC/api/vacweblead.php?lastname=$lastname&email=$email&company=$comapny&phone=$phone&description=$description");
-        //     // echo "echo '<script type="text/javascript">';
-        //     // echo ' alert("JavaScript Alert Box by PHP")';  //not showing an alert box.
-        //     // echo '</script>'"
-        // }
+            $lastname = $_GET['lastname'];
+			$email = $_GET['email'];
+			$company = $_GET['company'];
+			$phone = $_GET['phone'];
+			$description = $_GET['description'];
+            file_get_contents("https://vex.vaccrm.com/VAC/api/vacweblead.php?lastname=$lastname&email=$email&company=$comapny&phone=$phone&description=$description");
+            // echo "echo '<script type="text/javascript">';
+            // echo ' alert("JavaScript Alert Box by PHP")';  //not showing an alert box.
+            // echo '</script>'"
+        }
 	?>
 
 <!-- <script>
