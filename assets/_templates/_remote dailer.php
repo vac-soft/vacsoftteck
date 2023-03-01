@@ -1,13 +1,13 @@
 <section id="Products" class="portfolio section-bg">
     <div class="container">
         <div id="Remote Dailer" class="section-title">
-            <h2>Remote Dailer</h2>
+            <h2>Remote Dialer</h2>
         </div>
         <div class="row">
             <div class="col-lg-6" data-aos="fade-left">
                 <div id="IPPBX" class="Call Center Dialer">
                     <div class="content-header">
-                        <h4>Remote Dailer :</h4>
+                        <h4>Remote Dialer :</h4>
                     </div>
                     <div class="content-para" >
                         <P>A remote dialer is a type of software that allows call center agents to make and receive calls from remote locations. This type of dialer operates over the internet and enables agents to work from home, a satellite office, or any other location outside the call center.</p>
