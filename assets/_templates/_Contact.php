@@ -28,10 +28,10 @@
                     <div class="phone">
                         <i class="bi bi-phone"></i>
                         <h4>Call:</h4>
-                        <p>+91-4435109600</p>
-                        <p>+91-4443512000</p>
-                        <p>+91-9884862743</p>
-                        <p>+91-9840862743</p>
+                        <p> <a href="tel:+914435109600">+91-4435109600</a></p>
+                        <p> <a href="tel:+914443512000">+91-4443512000</a></p>
+                        <p> <a href="tel:+919884862743">+91-9884862743</a></p>
+                        <p> <a href="tel:+919840862743">+91-9840862743</a></p>
                     </div>
 
                 </div>
@@ -40,7 +40,7 @@
 
             <div class="col-lg-8 mt-5 mt-lg-0">
 
-                <form action="https://vaccrm.com/dialer.php" role="form" class="php-email-form" data-aos="fade-left">
+                <form action=""   role="form" class="php-email-form" data-aos="fade-left">
                     <div class="row">
                         <div class="col-md-6 form-group">
                             <input type="text" name="lastname" class="form-control" id="name" placeholder="Your Name" required>
@@ -66,7 +66,7 @@
                         <div class="error-message"></div>
                         <div class="sent-message">Your message has been sent. Thank you!</div>
                     </div>
-                    <div class="text-center"><button value="Sumbit" type="submit">Send Message</button></div>
+                    <div class="text-center" ><button value="Sumbit" type="submit">Send Message</buttont></div>
                 </form>
 
             </div>
@@ -75,3 +75,82 @@
 
     </div>
 </section>
+<?php
+		if ($_SERVER['REQUEST_METHOD'] == 'GET') {
+
+            $lastname = $_GET['lastname'];
+			$email = $_GET['email'];
+			$company = $_GET['company'];
+			$phone = $_GET['phone'];
+			$description = $_GET['description'];
+            file_get_contents("https://vex.vaccrm.com/VAC/api/vacweblead.php?lastname=$lastname&email=$email&company=$comapny&phone=$phone&description=$description");
+            // echo "echo '<script type="text/javascript">';
+            // echo ' alert("JavaScript Alert Box by PHP")';  //not showing an alert box.
+            // echo '</script>'"
+        }
+	?>
+
+<!-- <script>
+function submitForm() {
+    // Get form element and original action URL
+    const form = document.querySelector('form');
+    const originalActionUrl = form.getAttribute('action');
+
+    // Change the form action to the new API endpoint URL
+    form.setAttribute('action', 'https://vacsoftteck.com/');
+
+    // Create new FormData object and append form data
+    const formData = new FormData(form);
+
+    // Send form data to new API endpoint using fetch() method
+    fetch('https://vex.vaccrm.com/VAC/api/vacweblead.php', {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => {
+        // Display pop-up message using the alert() method
+        alert('Form submitted successfully to the new API endpoint!');
+    })
+    .catch(error => {
+        console.error(error);
+        // Handle error and display error message
+        alert('An error occurred while submitting the form. Please try again later.');
+    });
+
+    // Prevent default form submission to the original action URL
+    return true;
+}
+</script> -->
+
+
+<!-- <script>
+function submitForm() {
+    // Get form element and action URL
+    const form = document.querySelector('form');
+    const actionUrl = form.getAttribute('action');
+
+    // Create new FormData object and append form data
+    const formData = new FormData(form);
+
+    // Send form data to action URL using fetch() method
+    fetch(actionUrl, {
+        method: 'POST',
+        body: formData
+    })
+    .then(response => {
+        // Display pop-up message using the alert() method
+        alert('Form submitted successfully!');
+        breack();
+        // querySelector('.error-message').innerHTML="Form submitted successfully!"
+
+    })
+    .catch(error => {
+        console.error(error);
+        // Handle error and display error message
+        alert('An error occurred while submitting the form. Please try again later.');
+    });
+
+    // Prevent default form submission
+    return 0;
+}
+</script> -->

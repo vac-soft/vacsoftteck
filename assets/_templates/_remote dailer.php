@@ -6,12 +6,14 @@
         <div class="row">
             <div class="col-lg-6" data-aos="fade-left">
                 <div id="IPPBX" class="Call Center Dialer">
-                    <div class="callcenter" style="padding-bottom: 20px;">
+                    <div class="content-header">
                         <h4>Remote Dailer :</h4>
                     </div>
-                    <P>A remote dialer is a type of software that allows call center agents to make and receive calls from remote locations. This type of dialer operates over the internet and enables agents to work from home, a satellite office, or any other location outside the call center.</p>
+                    <div class="content-para">
+                        <P>A remote dialer is a type of software that allows call center agents to make and receive calls from remote locations. This type of dialer operates over the internet and enables agents to work from home, a satellite office, or any other location outside the call center.</p>
+                    </div>
                 </div>
-                <div>
+                <div class="content-points">
                     <ul>
                         <li> The remote dialer connects to the call center's</li>
                         <li> Phone system and provides the same capabilities as a traditional dialer</li>
@@ -25,14 +27,12 @@
             </div>
             <div class="col-lg-6">
                 <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 " data-aos="fade-right">
-                    <h3>Use Of Remote Dialers :</h3>
-                    <p class="fst-italic">
-                    <div>
-                        <div>
-                            <p>The use of remote dialers has become increasingly popular as more organizations adopt remote work practices. It offers numerous benefits, including increased agent flexibility, reduced costs associated with physical call centers, and the ability to attract and retain a wider pool of talent.</p>
-                        </div>
+                    <div class="content-header"></div>
+                    <h4>Use Of Remote Dialers :</h4>
+                    <div class="content-para">
+                        <p>The use of remote dialers has become increasingly popular as more organizations adopt remote work practices. It offers numerous benefits, including increased agent flexibility, reduced costs associated with physical call centers, and the ability to attract and retain a wider pool of talent.</p>
                     </div>
-                    <div>
+                    <div class="content-points">
                         <ul>
                             <li> In summary, a remote dialer is a type of software that enables</li>
                             <li> Call center agents to make and receive calls from remote locations</li>
@@ -41,8 +41,19 @@
                         </ul>
                     </div>
                 </div>
+                <div class="image-remote" data-aos="fade-left">
+                    <img src="assets/img/remote_dialer.jpg" class="img-fluid" alt="">
+                    <div class="remote-link">
+                        <a href="https://play.google.com/store/apps/details?id=com.dkkaran1996.vacremotedialer" target="_blank">
+                            <img src="https://tse2.mm.bing.net/th?id=OIP.xwnujVdDZ-3CQtWIgJER1QHaDt&pid=Api&P=0"></img>
+                            <span>Download Link</span>
+                        </a>
+                    </div>
+                </div>
             </div>
+
         </div>
+
         <div class="row">
             <div class="col-lg-6" data-aos="fade-left">
 

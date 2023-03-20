@@ -34,7 +34,7 @@
                                                 <li><a href="../../products.php#lead management" class="dropdown-item" type="button">Lead Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#lead management" class="dropdown-item" type="button">Support Management</a></li>
+                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Support Management</a></li>
                                             </div>
                                             <div class="dropdown">
                                                 <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Delivery Management</a></li>
@@ -43,7 +43,7 @@
                                                 <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Accounts Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Real Management</a></li>
+                                                <li><a href="../../products.php#Real Estate" class="dropdown-item" type="button">Real Estate Management</a></li>
                                             </div>
                                         </ul>
                                     </div>
@@ -51,10 +51,10 @@
                                         <li><a href="../../products.php#IPPBX" class="dropdown-item" type="button">IP PBX</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IPPX" class="dropdown-item" type="button">Complete Business Suite</a></li>
+                                        <li><a href="../../products.php#Complete Business Suite" class="dropdown-item" type="button">Complete Business Suite</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IVR Systemr" class="dropdown-item" type="button">IVR</a></li>
+                                        <li><a href="../../products.php#IVR System" class="dropdown-item" type="button">IVR</a></li>
                                     </div>
 
                                     <div class="dropdown">
@@ -86,22 +86,22 @@
                                         <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Call Center Dialer</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">CRM</a></li>
+                                        <li><a href="../../products.php#CRM" class="dropdown-item" type="button">CRM</a></li>
                                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Lead Management</a></li>
+                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Lead Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Support Management</a></li>
+                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Support Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Delivery Management</a></li>
+                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Delivery Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Accounts Management</a></li>
+                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Accounts Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Real Management</a></li>
+                                                <li><a href="../../products.php#Real Estate" class="dropdown-item" type="button">Real Estate Management</a></li>
                                             </div>
                                         </ul>
                                     </div>
@@ -109,7 +109,7 @@
                                         <li><a href="../../products.php#IPPX" class="dropdown-item" type="button">IP PBX</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IPPX" class="dropdown-item" type="button">Complete Business Suite</a></li>
+                                        <li><a href="../../products.php#Complete Business Suite" class="dropdown-item" type="button">Complete Business Suite</a></li>
                                     </div>
                                     <div class="dropdown">
                                         <li><a href="../../products.php#IVR System" class="dropdown-item" type="button">IVR</a></li>
@@ -118,7 +118,7 @@
                                         <li><a href="../../products.php#Customer Care" class="dropdown-item" type="button">Customer Care</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#VMs" class="dropdown-item" type="button">VMS</a></li>
+                                        <li><a href="../../products.php#VMS" class="dropdown-item" type="button">VMS</a></li>
                                     </div>
                                     <div class="dropdown">
                                         <li><a href="../../products.php#Bulk SMS" class="dropdown-item" type="button">Bulk SMS</a></li>
