@@ -1,6 +1,6 @@
-<section id="Products" class="portfolio section-bg">
+<section id="Products" id="IPPBX" class="portfolio section-bg">
     <div class="container">
-        <div id="IPPBX" class="section-title">
+        <div  class="section-title">
             <h2>VAC PBX</h2>
         </div>
         <div class="row">
