@@ -5,7 +5,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6" data-aos="fade-left">
-                <div id="Complete Business Suite" class="Call Center Dialer">
+                <!-- <div id="Complete Business Suite" class="Call Center Dialer">
                     <div class="callcenter" style="padding-bottom: 20px;">
                         <h4>Complete Business Suite</h4>
                     </div>
@@ -13,7 +13,7 @@
                     <br>
                     <p>Like rival offerings from vendors such as SAP and Microsoft, Oracle E-Business Suite was designed to help users manage global businesses, improve decision making, reduce costs and increase corporate performance. E-Business Suite contains application modules that support different aspects of CRM, ERP and SCM operations, including customer service management, financial management, human capital management, project portfolio management, procurement, and value chain planning and execution. Oracle also has pre-integrated its business intelligence applications with E-Business Suite to provide EBS users with BI and analytics capabilities.</p>
                     <br>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-6">
                 <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 " data-aos="fade-right">
