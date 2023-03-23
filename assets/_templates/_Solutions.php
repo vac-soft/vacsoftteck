@@ -1,5 +1,5 @@
 <!-- <section id="Solutions" class="about"> -->
-<div class="card-bg">
+<div class="card-bg py-5 ">
   <section id="Solutions" class="portfolio section-bg">
     <div class="section-title">
       <h2>Solutions</h2>
@@ -21,7 +21,7 @@
 
         <li> Live Monitoring.</li>
 
-        <li> CRM Integration.<a class="link-primary" href="../../products.php#Call Center Dialer">More Details</a></li>
+        <li> CRM Integration.<a class="link-primary" href="../../Products/CallCenterDialer.php">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -44,7 +44,7 @@
 
         <li> IVR reduces wait times and streamlines tasks for customers and operators.</li>
 
-        <li> IVR helps provide quick and accurate information.<a class="link-primary" href="../../products.php#IVR System">More Details</a></li>
+        <li> IVR helps provide quick and accurate information.<a class="link-primary" href="../../Products/IVRSystem.php">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -73,7 +73,7 @@
 
         <li> Live Monitoring.</li>
 
-        <li> CRM Integration.<a class="link-primary" href="../../products.php#Remote Dailer">More Details</a></li>
+        <li> CRM Integration.<a class="link-primary" href="../../Products/remotedailer.php">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -97,7 +97,7 @@
         <!-- <li>data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us".</li> -->
         <li> Use Android phone as wireless extension.</li>
         <li> Enterprises can connect all branches.</li>
-        <li> Dynamic Reports. <a class="link-primary" href="../../products.php#IPPBX">More Details</a>
+        <li> Dynamic Reports. <a class="link-primary" href="../../Products/IPPBX.php">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -121,7 +121,7 @@
         <!-- <li>data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us".</li> -->
         <li> Use Android phone as wireless extension.</li>
         <li> Enterprises can connect all branches.</li>
-        <li> Dynamic Reports. <a class="link-primary" href="../../products.php#Remote PBX">More Details</a>
+        <li> Dynamic Reports. <a class="link-primary" href="../../Products/remotepbx.php">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -141,7 +141,7 @@
         <li> Use your existing PRI / SIP / Analog Trunks or GSM effectively;</li>
 
         <li> Integrate contact center solution and PBX.</li>
-        <p><a class="link-primary" href="../../products.php#Complete Business Suite">More Details</a></p>
+        <p><a class="link-primary" href="../../Products/CompleteBusinessSuite.php">More Details</a></p>
         </i>
       </ul>
       <div class="card-icone">
@@ -169,7 +169,7 @@
         <li> Real Estate Management.</li>
 
         <li> Integrated with our CRM can throw pop-up of the caller details.
-          <p><a class="link-primary" href="../../products.php#CRM">More Details</a></p>
+          <p><a class="link-primary" href="../../Products/CRM.php">More Details</a></p>
         </li>
       </ul>
       <div class="card-icone">
@@ -214,7 +214,7 @@
         <li> Firewalls block the incoming traffic by looking into the source of the traffic.</li>
         <li> Network firewall function on network level.</li>
         <li> A Network firewall might have two or more network interface cards (NICs). </li>
-        <li> A network-based firewall is usually a dedicated system with proprietary software installed. <a class="link-primary" href="../../products.php#fire wall  ">More Details</a>
+        <li> A network-based firewall is usually a dedicated system with proprietary software installed. <a class="link-primary" href="../../Products/firewall.php">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -227,16 +227,16 @@
 
     <!-- Cloud Service -->
 
-    <div id="cloud_service" class="popup">
+    <div id="VMS" class="popup">
       <a href="#Products" class="close">&times;</a>
-      <h2>Cloud Service</h2>
+      <h2>VMS</h2>
       <ul>
-        <li> Cloud services promote the building of cloud-native applications and the flexibility of working in the cloud.</li>
-        <li> Users can access cloud services with nothing more than a computer, operating system, and internet connectivity.</li>
-        <li> Cloud services are designed to provide easy, scalable access to applications, resources and services.</li>
-        <li> The cloud is made up of servers in data centers all over the world.</li>
-        <li> Moving to the cloud can save companies money and add convenience for users. </li>
-        <li> What is the cloud?..<a class="link-primary" href="../../products.php#cloud service">More Details</a>
+        <li> The VAC VMS is highly customizable, allowing call center managers to create their own survey questions and response options.</li>
+        <li> The results of the surveys can then be analyzed and used to improve customer service, </li>
+        <li> Product offerings, and overall business operations.</li>
+        <li> Additionally, VAC VMS offers the option to use pre-recorded survey prompts.</li>
+        <li> Which can save time for call center agents and improve consistency in survey delivery.</li>
+        <li> Moving to the cloud can save companies money and add convenience for users..<a class="link-primary" href="../../Products/VMS.php">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
@@ -261,7 +261,7 @@
 
         <li> You can also set dynamic routing with CRM assistance thru IVR.</li>
 
-        <li> Integrated with our CRM can throw pop-up of the caller details. <a class="link-primary" href="../../products.php#Customer Care">More Details</a></li>
+        <li> Integrated with our CRM can throw pop-up of the caller details. <a class="link-primary" href="../../Products/Customercare.php">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -277,7 +277,7 @@
       <a href="#Products" class="close">&times;</a>
       <h2>Third Party Software</h2>
       <ul>
-        <li> We can provide API for interrogating any third party softeware.<a class="link-primary" href="../../products.php#Third Party">More Details</a></li>
+        <li> We can provide API for interrogating any third party softeware.<a class="link-primary" href="../../Products/ThirdParty.php">More Details</a></li>
         <!-- <li> With Third party software you can Includes the necessary featurs in your softeware</li> -->
 
         <!-- <li> Attaches Familiar Applications.</li>
@@ -310,7 +310,27 @@
 
         <li> When the EPABX extensions seize the PRI to out dial, the gateway accepts the request via the PRI.</li>
 
-        <li> line and in turn seizes one of the GSM SIM cards and out dials the number.<a class="link-primary" href="../../products.php#Gateway">More Details</a></li>
+        <li> line and in turn seizes one of the GSM SIM cards and out dials the number.<a class="link-primary" href="../../Products/Gateway.php">More Details</a></li>
+      </ul>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
+      </span>
+    </div>
+    <!-- BulkSMS -->
+    <div id="BulkSMS" class="popup">
+      <a href="#Products" class="close">&times;</a>
+      <h2>Bulk SMS</h2>
+      <ul>
+        <li> Bulk SMS (Short Message Service) is a service that enables businesses.</li>
+
+        <li> Organizations to send large numbers of text messages to a targeted audience simultaneously.</li>
+
+        <li> This service is used for various purposes.</li>
+
+        <li> Such as marketing promotions, customer engagement, notifications, alerts, and more.<a class="link-primary" href="../../Products/BulkSMS.php">More Details</a></li>
       </ul>
       <div class="card-icone">
         <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
@@ -322,7 +342,7 @@
 
 
     <div class="container aos-init aos-animate" data-aos="fade-up">
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-lg-12 d-flex justify-content-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
           <ul id="portfolio-flters">
             <li class="link" data-filter="*" class="filter-active">All</li>
@@ -332,7 +352,7 @@
             <li id="Cloud" data-filter=".filter-cloud">Cloud</li>
           </ul>
         </div>
-      </div>
+      </div> -->
 
       <div class="row portfolio-container aos-init aos-animate" data-aos="fade-up" data-aos-delay="200" style="position: relative; height: 1097.33px;">
         <div class="portfolio-item filter-web filter-cloud " data-aos="fade-right">
@@ -463,6 +483,26 @@
               </div>
               <div class="details">
                 <h2>GSM / PRI Gateway</h2>
+              </div>
+              </a>
+            </div>
+            <div class="product-card">
+              <div class=img>
+                <a href="#VMS">
+                  <img src="https://img.freepik.com/premium-vector/woman-get-social-media-notifications-with-some-related-icons-spreading-with-modern_197170-134.jpg?w=740">
+              </div>
+              <div class="details">
+                <h2>VMS</h2>
+              </div>
+              </a>
+            </div>
+            <div class="product-card">
+              <div class=img>
+                <a href="#BulkSMS">
+                  <img src="https://img.freepik.com/free-vector/mail-sent-concept-illustration_114360-96.jpg?w=740&t=st=1679558305~exp=1679558905~hmac=c03ced3290e895045da87d83e661fffbc85fd00c4b2aaf306eef2cffcdd3a3c5">
+              </div>
+              <div class="details">
+                <h2>Bulk SMS</h2>
               </div>
               </a>
             </div>

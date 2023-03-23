@@ -25,53 +25,47 @@
                                 </div>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                     <div class="dropdown">
-                                        <li><a href="../../products.php" class="dropdown-item" type="button">Call Center Dialer</a></li>
+                                        <li><a href="../../Products/CallCenterDialer.php" class="dropdown-item" type="button">Call Center Dialer</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#CRM" class="dropdown-item" type="button">CRM</a></li>
+                                        <li><a href="../../Products/CRM.php" class="dropdown-item" type="button">CRM</a></li>
                                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#lead management" class="dropdown-item" type="button">Lead Management</a></li>
+                                                <li><a href="../../Products/CRM.php#lead management" class="dropdown-item" type="button">Lead Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#lead management" class="dropdown-item" type="button">Support Management</a></li>
+                                                <li><a href="../../Products/CRM.php#lead management" class="dropdown-item" type="button">Support Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Delivery Management</a></li>
+                                                <li><a href="../../Products/CRM.php#CRM" class="dropdown-item" type="button">Delivery Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Accounts Management</a></li>
+                                                <li><a href="../../Products/CRM.php#CRM" class="dropdown-item" type="button">Accounts Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#Real Estate" class="dropdown-item" type="button">Real Estate Management</a></li>
+                                                <li><a href="../../Products/CRM.php#Real Estate" class="dropdown-item" type="button">Real Estate Management</a></li>
                                             </div>
                                         </ul>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IPPBX" class="dropdown-item" type="button">IP PBX</a></li>
+                                        <li><a href="../../Products/IPPBX.php" class="dropdown-item" type="button">IP PBX</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Complete Business Suite" class="dropdown-item" type="button">Complete Business Suite</a></li>
+                                        <li><a href="../../Products/CompleteBusinessSuite.php" class="dropdown-item" type="button">Complete Business Suite</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IVR System" class="dropdown-item" type="button">IVR</a></li>
+                                        <li><a href="../../Products/IVRSystem.php" class="dropdown-item" type="button">IVR</a></li>
                                     </div>
 
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Customer Care" class="dropdown-item" type="button">Customer Care</a></li>
+                                        <li><a href="../../Products/Customercare.php" class="dropdown-item" type="button">Customer Care</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#VMS" class="dropdown-item" type="button">VMS</a></li>
+                                        <li><a href="../../Products/VMS.php" class="dropdown-item" type="button">VMS</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Bulk SMS" class="dropdown-item" type="button">Bulks SMS</a></li>
+                                        <li><a href="../../Products/BulkSMS.php" class="dropdown-item" type="button">Bulks SMS</a></li>
                                     </div>
-                                    <!-- <div class="dropdown">
-                                        <a href="../../../VAC_Softtech/products.php" class="nav-link scrollto" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
-                                            Customer Care
-                                        </a>
-                                    </div> -->
-
                                 </ul>
                             </div>
                             <div class="dropdown">
@@ -83,48 +77,48 @@
                                 <!-- <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">On Premises</a></li> -->
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Call Center Dialer" class="dropdown-item" type="button">Call Center Dialer</a></li>
+                                        <li><a href="../../Products/CallCenterDialer.php" class="dropdown-item" type="button">Call Center Dialer</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#CRM" class="dropdown-item" type="button">CRM</a></li>
+                                        <li><a href="../../Products/CRM.php" class="dropdown-item" type="button">CRM</a></li>
                                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#lead management" class="dropdown-item" type="button">Lead Management</a></li>
+                                                <li><a href="../../Products/CRM.php#lead management" class="dropdown-item" type="button">Lead Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Support Management</a></li>
+                                                <li><a href="../../Products/CRM.php#CRM" class="dropdown-item" type="button">Support Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Delivery Management</a></li>
+                                                <li><a href="../../Products/CRM.php#CRM" class="dropdown-item" type="button">Delivery Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#CRM" class="dropdown-item" type="button">Accounts Management</a></li>
+                                                <li><a href="../../Products/CRM.php#CRM" class="dropdown-item" type="button">Accounts Management</a></li>
                                             </div>
                                             <div class="dropdown">
-                                                <li><a href="../../products.php#Real Estater" class="dropdown-item" type="button">Real Estate Management</a></li>
+                                                <li><a href="../../Products/CRM.php#Real Estater" class="dropdown-item" type="button">Real Estate Management</a></li>
                                             </div>
                                         </ul>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IPPX" class="dropdown-item" type="button">IP PBX</a></li>
+                                        <li><a href="../../Products/IPPBX.php" class="dropdown-item" type="button">IP PBX</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Complete Business Suite" class="dropdown-item" type="button">Complete Business Suite</a></li>
+                                        <li><a href="../../Products/CompleteBusinessSuite.php" class="dropdown-item" type="button">Complete Business Suite</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#IVR System" class="dropdown-item" type="button">IVR</a></li>
+                                        <li><a href="../../Products/IVRSystem.php" class="dropdown-item" type="button">IVR</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Customer Care" class="dropdown-item" type="button">Customer Care</a></li>
+                                        <li><a href="../../Products/Customercare.php" class="dropdown-item" type="button">Customer Care</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#VMS" class="dropdown-item" type="button">VMS</a></li>
+                                        <li><a href="../../Products/VMS.php" class="dropdown-item" type="button">VMS</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#Bulk SMS" class="dropdown-item" type="button">Bulk SMS</a></li>
+                                        <li><a href="../../Products/BulkSMS.php" class="dropdown-item" type="button">Bulk SMS</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../products.php#fire wall" class="dropdown-item" type="button">Fire Wall</a></li>
+                                        <li><a href="../../Products/firewall.php" class="dropdown-item" type="button">Fire Wall</a></li>
                                     </div>
                                 </ul>
                             </div>
