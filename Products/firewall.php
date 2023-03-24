@@ -42,58 +42,90 @@ include "../assets/load.php";
 
             <section id="fire wall" class="portfolio section-bg py-5">
                 <div class="container">
-                    <div class="section-title">
-                        <h2>Fire wall</h2>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6" data-aos="fade-left">
-                            <div id="IPPBX" class="Call Center Dialer">
-                                <div class="content-header">
-                                    <h4>Firewall in Computer Network</h4>
+                    <div class="row g-5">
+                        <div class="section-title position-relative mb-4 pb-2 wow fadeInLeft" data-wow-delay="0.1s">
+                            <h2 class="mt-2">FireWall</h2>
+                            <hr class="bg-dark mx-auto mt-0 rounded " style="width: 90px; height: 5px;">
+                        </div>
+                        <div class="col-lg-7 py-5 pb-0  bg-primary py-5" data-aos="fade-right" style="border-radius: 20px;">
+                            <div class="section-title position-relative mb-4 pb-2 wow fadeInRight" data-wow-delay="0.1s">
+                                <h2 class="mt-2 text-start text-light" data-aos="fade-up">Features and Benefits:</h2>
+                            </div>
+                            <div class="row g-3">
+                                <div class="col-sm-6">
+                                    <ul class="text-light fs-5">
+                                        <li>One of the most visible benefits of firewalls is the ability to control your
+                                            system's.</li>
+                                        <li>Entry points and stop virus attacks.</li>
+                                        <li>The cost of damage from a virus attack on your systems could be immeasurably
+                                            high, depending on the type of virus.</li>
+                                    </ul>
                                 </div>
-                                <div class="content-points">
-                                    <ul>
-                                        <li>A firewall is a network security device, either hardware or software-based, which monitors all incoming and outgoing traffic and based on a defined set of security rules it accepts, rejects or drops that specific traffic.</li>
-                                        <li> <Strong>Accept :</Strong> allow the traffic</li>
-                                        <li> <Strong>Reject :</Strong> block the traffic but reply with an “unreachable error”</li>
-                                        <li> <Strong>Drop :</Strong> block the traffic with no reply</li>
+                                <div class="col-sm-6">
+                                    <ul class="text-light fs-5">
+                                        <li>Prevents Hacking, Stops Virus Attacks, Updated Threat Protection, Consistent
+                                            Network Speed.</li>
+                                        <li>Proactively addressing the security concerns of your business and your network
+                                            now can pay dividends of time savings.</li>
                                     </ul>
                                 </div>
                             </div>
-                            <div class="image">
-                                <div><img class="img-fluid" src="https://media.geeksforgeeks.org/wp-content/uploads/introduction-to-firewall-1.png" alt="fire wall"></div>
+                        </div>
+                        <div class="col-lg-5 wow fadeInRight py-5" data-wow-delay="0.1s">
+                            <div data-aos="fade-down">
+                                <h1 class="mt-2 text-dark ">Firewall in Computer Network</h1>
                             </div>
-                            <br>
+                            <p class="mb-3 text-dark fs-5" data-aos="fade-left">A firewall is a network security device, either hardware or
+                                software-based, which monitors all incoming and outgoing traffic and based on a defined set
+                                of security rules it accepts, rejects or drops that specific traffic.
+                            </p>
+                            <ul class="text-dark" data-aos="fade-up">
+                                <li><span style=" font-weight: 600; letter-spacing: 1.5px;">Accept :</span> allow
+                                    the traffic</li>
+                                <li><span style=" font-weight: 600; letter-spacing: 1.5px;">Reject :</span> block
+                                    the traffic but reply with an “unreachable error”</li>
+                                <li><span style=" font-weight: 600; letter-spacing: 1.5px;">Drop :</span> block the
+                                    traffic with no reply</li>
+                            </ul>
+                        </div>
 
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="content-header data-aos=" fade-right">
-                                <h4>Features and Benefits:</h4>
-                            </div>
-                            <div class="content-points" data-aos="fade-left"></div>
-                            <ul>
-                                <li>One of the most visible benefits of firewalls is the ability to control your system's.</li>
-                                <li>Entry points and stop virus attacks.</li>
-                                <li>The cost of damage from a virus attack on your systems could be immeasurably high, depending on the type of virus.</li>
-                                <li>Prevents Hacking, Stops Virus Attacks, Updated Threat Protection, Consistent Network Speed.</li>
-                                <li>Proactively addressing the security concerns of your business and your network now can pay dividends of time savings.</li>
-                            </ul>
-                        </div>
-                        <div class="content-header" data-aos="fade-right">
-                            <h4>How Firewall Works:</h4>
-                        </div>
-                        <div class="content-points">
-                            <ul>
-                                <li>Firewall match the network traffic against the rule set defined in its table safe or not</li>
-                                <li>Once the rule is matched, associate action is applied to the network traffic</li>
-                                <li>Most of the traffic which reaches firewall uses one of these three major Transport Layer protocols- TCP, UDP or ICMP</li>
-                                <li> All these types have a source address and destination address</li>
-                                <li>A firewall establishes a barrier between secured internal networks and outside untrusted network, such as the Internet</li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
+            </section>
+            <section id="fire wall" class="portfolio section-bg py-5">
+                <div class="container">
+                <div class="row g-5">
+                    <div class="col-lg-6" data-aos="fade-right">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" style="position: relative;top: 110px;"
+                            src="https://media.geeksforgeeks.org/wp-content/uploads/introduction-to-firewall-1.png">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp wow  py-5 pb-0  bg-primary py-5" data-wow-delay="0.1s"
+                        style="border-radius: 20px;">
+                        <div class="section-title fadeInLeft position-relative mb-4 pb-2" data-aos="fade-left">
+                            <h2 class="mt-2 text-light">How Firewall Works</h2>
+                        </div>
+                        <div class="row g-3">
+                            <div class="col-sm-6">
+                                <ul class="text-light fs-5" data-aos="fade-up">
+                                    <li>Firewall match the network traffic against the rule set defined in its table
+                                        safe or not</li>
+                                    <li>Once the rule is matched, associate action is applied to the network traffic
+                                    </li>
+                                    <li>Most of the traffic which reaches firewall uses one of these three major
+                                        Transport Layer protocols- TCP, UDP or ICMP</li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6">
+                                <ul class="text-light fs-5" data-aos="fade-down">
+                                    <li>All these types have a source address and destination address</li>
+                                    <li>A firewall establishes a barrier between secured internal networks and outside
+                                        untrusted network, such as the Internet</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
 
+                </div>
                 </div>
             </section>
 

@@ -48,8 +48,8 @@ include "../assets/load.php";
                             <hr class="bg-dark mx-auto mt-0 rounded " style="width: 90px; height: 5px;">
                         </div>
                         <div class="col-lg-8 wow fadeInRight bg-primary py-4" data-aos="fade-left" style="border-radius: 20px;">
-                            <div class="section-title position-relative" data-wow-delay="0.1s">
-                                <h2 class="mt-2 text-start text-light ">Email management :</h2>
+                            <div class=" position-relative" data-wow-delay="0.1s">
+                                <h1 class="mt-2 text-start text-light ">Email management :</h1>
                             </div>
                             <p class="mb-3 text-light fs-5">Helps businesses manage incoming and outgoing email, including
                                 the ability to track and respond to customer inquiries.
@@ -61,7 +61,7 @@ include "../assets/load.php";
                                 higher-quality support.
                             </p>
                             <div class="row g-3">
-                                <div class="col-sm-6">
+                                <div class="col-sm-6 fs-5">
                                     <ul class="text-light">
                                         <li>In addition to improving the customer experience</li>
                                         <li>Customer care software can also provide valuable data</li>
@@ -69,7 +69,7 @@ include "../assets/load.php";
 
                                     </ul>
                                 </div>
-                                <div class="col-sm-6">
+                                <div class="col-sm-6 fs-5">
                                     <ul class="text-light">
                                         <li>Which can be used to inform business strategy and decision-making.</li>
                                     </ul>
