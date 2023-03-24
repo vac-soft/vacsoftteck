@@ -1,4 +1,4 @@
-<section id="contact" class="contact ">
+<section id="contact" class="contact py-5">
     <div class="container">
 
         <div class="section-title">
@@ -89,68 +89,3 @@
             // echo '</script>'"
         }
 	?>
-
-<!-- <script>
-function submitForm() {
-    // Get form element and original action URL
-    const form = document.querySelector('form');
-    const originalActionUrl = form.getAttribute('action');
-
-    // Change the form action to the new API endpoint URL
-    form.setAttribute('action', 'https://vacsoftteck.com/');
-
-    // Create new FormData object and append form data
-    const formData = new FormData(form);
-
-    // Send form data to new API endpoint using fetch() method
-    fetch('https://vex.vaccrm.com/VAC/api/vacweblead.php', {
-        method: 'POST',
-        body: formData
-    })
-    .then(response => {
-        // Display pop-up message using the alert() method
-        alert('Form submitted successfully to the new API endpoint!');
-    })
-    .catch(error => {
-        console.error(error);
-        // Handle error and display error message
-        alert('An error occurred while submitting the form. Please try again later.');
-    });
-
-    // Prevent default form submission to the original action URL
-    return true;
-}
-</script> -->
-
-
-<!-- <script>
-function submitForm() {
-    // Get form element and action URL
-    const form = document.querySelector('form');
-    const actionUrl = form.getAttribute('action');
-
-    // Create new FormData object and append form data
-    const formData = new FormData(form);
-
-    // Send form data to action URL using fetch() method
-    fetch(actionUrl, {
-        method: 'POST',
-        body: formData
-    })
-    .then(response => {
-        // Display pop-up message using the alert() method
-        alert('Form submitted successfully!');
-        breack();
-        // querySelector('.error-message').innerHTML="Form submitted successfully!"
-
-    })
-    .catch(error => {
-        console.error(error);
-        // Handle error and display error message
-        alert('An error occurred while submitting the form. Please try again later.');
-    });
-
-    // Prevent default form submission
-    return 0;
-}
-</script> -->
