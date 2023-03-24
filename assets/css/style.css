@@ -10,6 +10,7 @@
 }
 
 a {
+    cursor: pointer !important;
     font-size: 12px;
     text-transform: uppercase;
 }
@@ -845,7 +846,7 @@ path:hover {
 --------------------------------------------------------------*/
 
 section {
-    padding: 60px 0;
+    padding: 0;
     overflow: hidden;
 }
 
