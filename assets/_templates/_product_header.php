@@ -7,8 +7,8 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto active" href="../../index.php">Home</a></li>
-                <li><a class="nav-link scrollto" href="../../#about">About</a></li>
+                <li><a class="nav-link scrollto active" href="../index.php">Home</a></li>
+                <li><a class="nav-link scrollto" href="../#about">About</a></li>
                 <li>
                     <div class="dropdown">
                         <a href="../../#Solutions" class="nav-link scrollto" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
