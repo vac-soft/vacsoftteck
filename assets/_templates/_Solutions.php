@@ -9,6 +9,7 @@
       <a href="#Products" class="close">&times;</a>
       <h2>VAC Dialer</h2>
       <ul>
+
         <li> Dynamic IVR.</li>
 
         <li> Call Queue.</li>
@@ -61,7 +62,21 @@
       <a href="#Products" class="close">&times;</a>
       <h2>Remote Dialer</h2>
       <ul>
-        <li> Dynamic IVR.</li>
+        <li>On Cloud and In Premises both are available</li>
+
+        <li>Username and Password based login</li>
+
+        <li>Mapping to Agents Mobile Numbers Directly</li>
+
+        <li>Active / Inactive feature</li>
+
+        <li>Incoming and Outgoing Call Reports </li>
+
+        <li>Manual call Option available</li>
+
+        <li>Suitable for all dialers like predictive, progressive, preview, manual and inbound.<a class="link-primary" href="../../Products/remotedailer.php">More Details</a></li>
+
+<!--        <li> Dynamic IVR.</li>
 
         <li> Call Queue.</li>
 
@@ -73,7 +88,7 @@
 
         <li> Live Monitoring.</li>
 
-        <li> CRM Integration.<a class="link-primary" href="../../Products/remotedailer.php">More Details</a></li>
+        <li> CRM Integration.<a class="link-primary" href="../../Products/remotedailer.php">More Details</a></li>-->
       </ul>
       <div class="card-icone">
         <a target="_blank" href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>

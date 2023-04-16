@@ -55,12 +55,14 @@ include "../assets/load.php";
                             <div class="row g-3 ">
                                 <div class="col-sm-6  pt-2">
                                     <ul class="text-light fs-5">
-                                        <li>The remote dialer connects to the call center's</li>
-                                        <li>Phone system and provides the same capabilities as a traditional dialer</li>
-                                        <li>Such as automatic call distribution, call queuing, and call monitoring</li>
-                                        <li>It also integrates with the call center's Customer Relationship Management (CRM)
-                                            system</li>
 
+					<li>On Cloud and In Premises both are available</li>
+					<li>Username and Password based login</li>
+					<li>Mapping to Agents Mobile Numbers Directly</li>
+					<li>Active / Inactive feature</li>
+					<li>Incoming and Outgoing Call Reports </li>
+					<li>Manual call Option available</li>
+					<li>Suitable for all dialers like predictive, progressive, preview, manual and inbound.</li>                                        
                                     </ul>
                                 </div>
                                 <div class="col-sm-6 pt-2">
@@ -73,23 +75,23 @@ include "../assets/load.php";
                         </div>
                         <div class="col-lg-6 wow fadeInUp py-5 pb-0" data-aos="fade-right">
                             <div class="section-title position-relative">
-                                <h3 class="mt-2 text-start text-dark">Use Of Remote Dialers :</h3>
+                                <h3 class="mt-2 text-start text-dark"><strong>VAC Remote Dialer in Action: Realizing the Benefits of Remote Call Centres</strong></h3>
                             </div>
-                            <p class="mb-3 fs-5">The use of remote dialers has become increasingly popular as more
-                                organizations adopt remote work practices. It offers numerous benefits, including increased
-                                agent flexibility, reduced costs associated with physical call centers, and the ability to
-                                attract and retain a wider pool of talent.</p>
-                            <div class="row g-3 ">
+                              <div class="row g-3 ">
                                 <div class="col-sm-6  pt-2 fs-5">
                                     <ul>
-                                        <li>In summary, a remote dialer is a type of software that enables</li>
-                                        <li>Call center agents to make and receive calls from remote locations</li>
+                                        <li>Roaming or work-from-home agents</li>
+                                        <li>Minimal investment scenarios</li>
+					<li>Virtual phone numbers for privacy</li>
+					<li>Mobile access for convenience</li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-6 pt-2 fs-5">
                                     <ul>
-                                        <li>It offers increased flexibility and efficiency</li>
-                                        <li>Helps organizations to better manage their customer interactions..</li>
+					<li>Manual call initiation with office number</li>
+                                        <li>Offline call reception for mobility</li>
+                                        <li>Agent call routing for efficiency</li>
+                                        <li>Real-time remote monitoring for managers</li>
                                     </ul>
                                 </div>
                             </div>
@@ -156,7 +158,7 @@ include "../assets/load.php";
                                     <h2 class="mt-2 text-dark">VAC Remote Dialer</h2>
                                 </div>
                                 <ul class="text-dark">
-                                    <li id="li" data-aos="fade-left" data-aos-delay="0.1s">Eliminate hardwrae costs</li>
+                                    <li id="li" data-aos="fade-left" data-aos-delay="0.1s">Eliminate hardware costs</li>
                                     <li id="li" data-aos="fade-right" data-aos-delay="0.6s">Can be accessed via mobile</li>
                                     <li id="li" data-aos="fade-left" data-aos-delay="1.9s">Access from anywhere</li>
                                     <li id="li" data-aos="fade-right" data-aos-delay="1.2s">High level data security</li>
