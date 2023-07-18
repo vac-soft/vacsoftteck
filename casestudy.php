@@ -30,7 +30,6 @@ include "assets/load.php";
     <style>
         /* CSS styles for the case study layout */
         .case {
-          font-family: Arial, sans-serif;
           margin: 0;
           padding: 20px;
         }

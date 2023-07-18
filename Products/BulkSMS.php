@@ -26,7 +26,7 @@ include "../assets/load.php";
     <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
 
 </head>
 

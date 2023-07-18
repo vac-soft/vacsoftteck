@@ -6,7 +6,7 @@
 
             <div class="row justify-content-center">
                 <div class="col-lg-6">
-                    <a href="#header" class="scrollto footer-logo"><img src="assets/img/vac_logo.jpeg" alt="logo"></a>
+                    <a href="#header" class="scrollto footer-logo"><img src="../assets/img/vac_logo.jpeg" alt="logo"></a>
                     <h3>VAC Softteck</h3>
                     <p>Goddess of Communication</p>
                 </div>
