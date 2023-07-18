@@ -7,7 +7,7 @@ include "assets/load.php";
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="VAC SOFTTECK has a range of products tailor made to suit customer requirements like IP PBX , Contact Center Solutions, Call Center Solutions, IVR, Voice Logger, Dialer and a powerful CRM that can cater to any vertical. The supply chain is supported efficiently by a 24/7 strong support team.">
+  <meta name="description" content="VAC SOFTTECK provide VAC IPPBX, VAC Dialer, VAC CRM, VAC Whatsap Connect, VAC Firewall and Bulk SMS.">
   <meta name="keywords" content="VACSoftteck, Good tele communication company, Good service company, Good customer support">
 
 
@@ -315,7 +315,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </svg>
         </li>
       </ul>
-      <a href="index.php" class="hero-logo" data-aos="zoom-in"><img src="assets/img/herosw-logo.png" alt=""></a>
+      <!-- <a href="index.php" class="hero-logo" data-aos="zoom-in"><img src="assets/img/herosw-logo.png" alt="logo"></a> -->
       <h1 data-aos="zoom-in">VAC Softteck</h1>
       <h2 data-aos="fade-up">Goddess of Communication</h2>
       <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started scrollto">Get Started</a>

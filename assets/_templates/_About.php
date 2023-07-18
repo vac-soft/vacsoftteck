@@ -50,7 +50,7 @@
       </div>
       <div class="col-lg-6" data-aos="fade-left">
         <div class="image">
-          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          <img src="assets/img/about.jpg" class="img-fluid" alt="about">
         </div>
       </div>
     </div>
