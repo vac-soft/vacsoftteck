@@ -64,7 +64,10 @@
                                         <li><a href="../../Products/VMS.php" class="dropdown-item" type="button">VMS</a></li>
                                     </div>
                                     <div class="dropdown">
-                                        <li><a href="../../Products/BulkSMS.php" class="dropdown-item" type="button">Bulks SMS</a></li>
+                                        <li><a href="../../Products/BulkSMS.php" class="dropdown-item" type="button">Bulk SMS</a></li>
+                                    </div>
+                                    <div class="dropdown">
+                                        <li><a href="../../Products/VACWAC.php" class="dropdown-item" type="button">VAC Whatsap Connect</a></li>
                                     </div>
                                 </ul>
                             </div>
