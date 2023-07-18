@@ -19,9 +19,9 @@
                     <div class="email">
                         <i class="bi bi-envelope"></i>
                         <h4>Email:</h4>
-                        <h2>For Sales:</h2>
+                        <h4>For Sales:</h4>
                         <p>sales@vacsoftteck.com</p>
-                        <h2>For Support:</h2>
+                        <h4>For Support:</h4>
                         <p>support@vacsoftteck.com</p>
                     </div>
 

@@ -26,7 +26,7 @@ include "assets/load.php";
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/style.css?v=1" rel="stylesheet">
     <style>
         /* CSS styles for the case study layout */
         .case {
