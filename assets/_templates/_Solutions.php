@@ -367,7 +367,7 @@
         <li> Make customer call from the same message.</li>
         <li> Make them visit your website from the message</li>
         <li> Make customer call from the same message.</li>
-        <li> APIs for integration. <a class="link-primary" href="../../Products/VACWAC.html">More Details</a>
+        <li> APIs for integration. <a class="link-primary" href="../../Products/VACWAC.php">More Details</a>
         </li>
       </ul>
       <div class="card-icone">
