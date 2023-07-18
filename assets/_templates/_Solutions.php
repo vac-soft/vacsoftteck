@@ -354,6 +354,29 @@
       </div>
       </span>
     </div>
+    <!-- VACWAC -->
+    <div id="VACWAC" class="popup">
+      <a href="#Products" class="close">&times;</a>
+      <h2>VAC Whatsap Connect</h2>
+      <ul>
+        <li> Send bulk messages.</li>
+        <li> Run campaigns</li>
+        <li> Have multiple no. of users</li>
+        <li> Assign inbound mesages to different users in your organization based on key words automatically.</li>
+        <li> Have chat bot to answer questions.</li>
+        <li> Make customer call from the same message.</li>
+        <li> Make them visit your website from the message</li>
+        <li> Make customer call from the same message.</li>
+        <li> APIs for integration. <a class="link-primary" href="../../Products/VACWAC.php">More Details</a>
+        </li>
+      </ul>
+      <div class="card-icone">
+        <a href="https://vacsoft.onsip.com/"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Call US" id="card-btn" class="bi bi-telephone"></button> </a>
+        <a href="https://tawk.to/vacsoftteck"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Chat Us" href="https://tawk.to/vacsoftteck" id="card-btn" class="bi bi-chat"></button></a>
+        <a href="#contact"> <button data-bs-toggle="tooltip" data-bs-placement="top" title="Contact US" type="button" id="card-btn" class="bi bi-headset"></button></a>
+      </div>
+      </span>
+    </div>
 
 
     <div class="container aos-init aos-animate" data-aos="fade-up">
@@ -518,6 +541,16 @@
               </div>
               <div class="details">
                 <h2>Bulk SMS</h2>
+              </div>
+              </a>
+            </div>
+            <div class="product-card">
+              <div class=img>
+                <a href="#VACWAC">
+                  <img src="../images/vacwac.png">
+              </div>
+              <div class="details">
+                <h2>VAC Whatsap Connect</h2>
               </div>
               </a>
             </div>
