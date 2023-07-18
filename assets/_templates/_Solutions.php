@@ -398,7 +398,7 @@
             <div class="product-card filter-app" data-aos="fade-up">
               <div class=img>
                 <a href="#popup1">
-                  <img src="https://img.freepik.com/free-vector/flat-customer-support-illustration_23-2148899114.jpg?w=740&t=st=1669723616~exp=1669724216~hmac=a047248cae899de0758c6a0833da3dff956011bc6218354ad2ea42e64528f48c">
+                  <img src="https://img.freepik.com/free-vector/flat-customer-support-illustration_23-2148899114.jpg?w=740&t=st=1669723616~exp=1669724216~hmac=a047248cae899de0758c6a0833da3dff956011bc6218354ad2ea42e64528f48c" alt="VAC Dialer">
               </div>
               <div class="details">
                 <h2>Call Center Dialer</h2>
@@ -409,7 +409,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#popup4">
-                  <img src="https://img.freepik.com/free-vector/gradient-crm-illustration_23-2149370936.jpg?w=740&t=st=1669724058~exp=1669724658~hmac=9ee3519446f0e86b85f640aee9e096d3f6f5079165dc6387a8f5c7d9ed60a841">
+                  <img src="https://img.freepik.com/free-vector/gradient-crm-illustration_23-2149370936.jpg?w=740&t=st=1669724058~exp=1669724658~hmac=9ee3519446f0e86b85f640aee9e096d3f6f5079165dc6387a8f5c7d9ed60a841" alt="VAC CRM">
               </div>
               <div class="details">
                 <h2>CRM</h2>
@@ -420,7 +420,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#popup2">
-                  <img src="https://img.freepik.com/free-vector/server-room-cloud-storage-icon-datacenter-database-concept-data-exchange-process_39422-556.jpg?w=740&t=st=1669723906~exp=1669724506~hmac=f59d6805dc9b027ce5c7b31936868864483be82736704188ff3add06c9f32304">
+                  <img src="https://img.freepik.com/free-vector/server-room-cloud-storage-icon-datacenter-database-concept-data-exchange-process_39422-556.jpg?w=740&t=st=1669723906~exp=1669724506~hmac=f59d6805dc9b027ce5c7b31936868864483be82736704188ff3add06c9f32304" alt="VAC PBX">
               </div>
               <div class="details">
                 <h2>IPPBX</h2>
@@ -431,7 +431,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#popup3">
-                  <img src="https://img.freepik.com/free-vector/business-people-working-project-flat-icon_1262-18770.jpg?w=740&t=st=1669724008~exp=1669724608~hmac=e06b9dd353125285439fb01e10b0539dc3c7fee5ecf51804a62b17d503c61802">
+                  <img src="https://img.freepik.com/free-vector/business-people-working-project-flat-icon_1262-18770.jpg?w=740&t=st=1669724008~exp=1669724608~hmac=e06b9dd353125285439fb01e10b0539dc3c7fee5ecf51804a62b17d503c61802" alt="VAC Business Suite">
               </div>
               <div class="details">
                 <h2>Complete Business Suite</h2>
@@ -442,7 +442,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#IVR">
-                  <img src="https://img.freepik.com/free-vector/smartphone-tablet-voice-assistant-communication-app-isometric-illustration_1284-57290.jpg?w=740&t=st=1669724291~exp=1669724891~hmac=b3cb639cbda46d51c8503d827e83c55229039a898cd642d41fe235c44aec075f">
+                  <img src="https://img.freepik.com/free-vector/smartphone-tablet-voice-assistant-communication-app-isometric-illustration_1284-57290.jpg?w=740&t=st=1669724291~exp=1669724891~hmac=b3cb639cbda46d51c8503d827e83c55229039a898cd642d41fe235c44aec075f" alt="IVR">
               </div>
               <div class="details">
                 <h2>IVR</h2>
@@ -453,7 +453,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#Customer_care">
-                  <img src="https://img.freepik.com/free-vector/flat-illustration-customer-support_23-2148878580.jpg?w=740&t=st=1669806578~exp=1669807178~hmac=16967d98e2bfbceee29283b6b98c6a47a414f74dd3505d653df7c8a7b399a75d">
+                  <img src="https://img.freepik.com/free-vector/flat-illustration-customer-support_23-2148878580.jpg?w=740&t=st=1669806578~exp=1669807178~hmac=16967d98e2bfbceee29283b6b98c6a47a414f74dd3505d653df7c8a7b399a75d" alt="VAC Customer Care">
               </div>
               <div class="details">
                 <h2>Customer Care</h2>
@@ -475,7 +475,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#firewall">
-                  <img src="https://img.freepik.com/free-vector/computer-data-protection-laptop-with-shield-data-safety-isometric-icon_39422-667.jpg?w=740&t=st=1669723474~exp=1669724074~hmac=6b3f735e57fae937dfb1426fff09390f92935ff33b55d063af18a17fee45950c">
+                  <img src="https://img.freepik.com/free-vector/computer-data-protection-laptop-with-shield-data-safety-isometric-icon_39422-667.jpg?w=740&t=st=1669723474~exp=1669724074~hmac=6b3f735e57fae937dfb1426fff09390f92935ff33b55d063af18a17fee45950c" alt="VAC Firewall">
               </div>
               <div class="details">
                 <h2>Fire Wall</h2>
@@ -485,7 +485,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#Remote Dialer">
-                  <img src="https://img.freepik.com/free-vector/smart-home-concept-illustration_114360-6366.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais">
+                  <img src="https://img.freepik.com/free-vector/smart-home-concept-illustration_114360-6366.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais" alt="VAC Remote Dialer">
               </div>
               <div class="details">
                 <h2>Remote Dialer</h2>
@@ -496,7 +496,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#remote IPPBX">
-                  <img src="https://img.freepik.com/premium-vector/smart-home-control-buttons-smartphone_24911-63843.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais">
+                  <img src="https://img.freepik.com/premium-vector/smart-home-control-buttons-smartphone_24911-63843.jpg?size=338&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=ais" alt="VAC Remote PBX">
               </div>
               <div class="details">
                 <h2>Remote IPPBX</h2>
@@ -506,7 +506,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#Third party">
-                  <img src="https://img.freepik.com/free-vector/cross-platform-software-concept-illustration_114360-7293.jpg?t=st=1669787212~exp=1669787812~hmac=6c4ec56893c9762a373359abcb10341fcc3d1e134612aeed657ee3770fb593cc">
+                  <img src="https://img.freepik.com/free-vector/cross-platform-software-concept-illustration_114360-7293.jpg?t=st=1669787212~exp=1669787812~hmac=6c4ec56893c9762a373359abcb10341fcc3d1e134612aeed657ee3770fb593cc" alt="Integration">
               </div>
               <div class="details">
                 <h2>Third Party Software</h2>
@@ -517,7 +517,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#Gateway">
-                  <img src="https://img.freepik.com/free-vector/cloud-hosting-concept-illustration_114360-4347.jpg?size=626&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=sph">
+                  <img src="https://img.freepik.com/free-vector/cloud-hosting-concept-illustration_114360-4347.jpg?size=626&ext=jpg&ga=GA1.2.1733882763.1669696769&semt=sph" alt="Gateways">
               </div>
               <div class="details">
                 <h2>GSM / PRI Gateway</h2>
@@ -527,7 +527,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#VMS">
-                  <img src="https://img.freepik.com/premium-vector/woman-get-social-media-notifications-with-some-related-icons-spreading-with-modern_197170-134.jpg?w=740">
+                  <img src="https://img.freepik.com/premium-vector/woman-get-social-media-notifications-with-some-related-icons-spreading-with-modern_197170-134.jpg?w=740" alt="VMS">
               </div>
               <div class="details">
                 <h2>VMS</h2>
@@ -537,7 +537,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#BulkSMS">
-                  <img src="https://img.freepik.com/free-vector/mail-sent-concept-illustration_114360-96.jpg?w=740&t=st=1679558305~exp=1679558905~hmac=c03ced3290e895045da87d83e661fffbc85fd00c4b2aaf306eef2cffcdd3a3c5">
+                  <img src="https://img.freepik.com/free-vector/mail-sent-concept-illustration_114360-96.jpg?w=740&t=st=1679558305~exp=1679558905~hmac=c03ced3290e895045da87d83e661fffbc85fd00c4b2aaf306eef2cffcdd3a3c5" alt="BulkSMS">
               </div>
               <div class="details">
                 <h2>Bulk SMS</h2>
@@ -547,7 +547,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#VACWAC">
-                  <img src="../images/vacwac.png">
+                  <img src="../images/vacwac.png" alt="VAC Whatsapp Connect">
               </div>
               <div class="details">
                 <h2>VAC Whatsap Connect</h2>

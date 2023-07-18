@@ -2,7 +2,7 @@
     <div class="container d-flex align-items-center justify-content-center">
 
         <div class="logo">
-            <a href="index.php"><img src="assets/img/Vac-new-logo.jpg" alt="" class="img-fluid"></a>
+            <a href="index.php"><img src="../assets/img/Vac-new-logo.jpg" alt="logo" class="img-fluid"></a>
         </div>
 
         <nav id="navbar" class="navbar">

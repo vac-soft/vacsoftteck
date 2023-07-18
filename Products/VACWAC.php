@@ -65,7 +65,7 @@ seamlessly with their existing calling platform and CRM / ERP.
                                 <li>reports & Analytics </li>
                                 <li>Send updates, delivery reminders, payment reminders & other notifications using our APIs</li>
                             </ul> -->
-                            <img src="../images/vacwac.png">
+                            <img src="../images/vacwac.png" alt="VAC Whatsap Connect">
                         </div>
                         <div class="col-lg-7 wow fadeInUp py-5 pb-0" data-aos="fade-right">
                             <div class="section-title position-relative pb-3 mb-4 wow fadeInRight" data-aos="fade-down">
