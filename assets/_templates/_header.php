@@ -128,9 +128,10 @@
                         </ul>
                     </div>
                 </li>
+                <li><a class="nav-link scrollto" href="casestudy.php">Case Studies</a></li>
                 <!-- <li><a class="nav-link scrollto" href="https://rzp.io/l/iVdsUnsNS">Online Payment</a></li> -->
                 <!-- <li><a class="nav-link scrollto" href="../../price.php">Pricing</a></li> -->
-                <li><a class="nav-link scrollto" href="../../#contact">ContactUS</a></li>
+                <li><a class="nav-link scrollto" href="../../#contact">Contact Us</a></li>
                 <div class="payment-button">
                     <form>
                         <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_LHOoj3iWrDaQ3k" async> </script>
