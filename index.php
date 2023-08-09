@@ -316,7 +316,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
       </ul>
       <!-- <a href="index.php" class="hero-logo" data-aos="zoom-in"><img src="assets/img/herosw-logo.png" alt="logo"></a> -->
-      <h1 data-aos="zoom-in">VAC Softteck</h1>
+      <h1 data-aos="zoom-in">VAC SOFTTECK LLP</h1>
       <h2 data-aos="fade-up">Goddess of Communication</h2>
       <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started scrollto">Get Started</a>
     </div>
