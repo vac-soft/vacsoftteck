@@ -7,7 +7,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <a href="#header" class="scrollto footer-logo"><img src="../assets/img/vac_logo.jpeg" alt="logo"></a>
-                    <h3>VAC Softteck</h3>
+                    <h3>VAC SOFTTECK LLP</h3>
                     <p>Goddess of Communication</p>
                 </div>
             </div>
@@ -33,7 +33,7 @@
 
     <div class="container footer-bottom clearfix">
         <div class="copyright">
-            Copyright &copy; <strong><span>VAC Softteck</span></strong>. All Rights Reserved
+            Copyright &copy; <strong><span>VAC SOFTTECK LLP</span></strong>. All Rights Reserved
         </div>
         <!--        <div class="credits">
             Designed by <a>Abdul Fahad</a>

@@ -12,7 +12,7 @@
                     <div class="address">
                         <i class="bi bi-geo-alt"></i>
                         <h4>Location:</h4>
-                        <p>No:K,2ndFloor ,<br> Senthil Flats, No.59, Burkit Rd,
+                        <p>VAC SOFTTECK LLP,<br>Flat No:K, 2nd Floor ,<br>Senthil Flats, <br>No.59, Burkit Rd,
                             <br>T. Nagar, Chennai-600017 <br>Near RR Dental Hospital.
                         </p>
                     </div>
