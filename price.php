@@ -5,7 +5,15 @@ include "assets/load.php";
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
+    <!-- updated code -->
+<!-- Google tag (gtag.js) --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EKTLZCJV6J&quot;"></script> 
+
+<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-EKTLZCJV6J'); </script>
+   
+
+
+<meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>Price</title>
