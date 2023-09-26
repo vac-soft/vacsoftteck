@@ -19,7 +19,7 @@ include "../assets/load.php";
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="description" content="VAC SOFTTECK has a range of products tailor made to suit customer requirements like IP PBX , Contact Center Solutions, Call Center Solutions, IVR, Voice Logger, Dialer and a powerful CRM that can cater to any vertical. The supply chain is supported efficiently by a 24/7 strong support team.">
-    <meta name="keywords" content="VACSoftteck, Good tele communication company, Good service company, Good customer support">
+    <meta name="keywords" content=": CRM for Small Business, best crm for real estate  business, best sales crm software, crm for lead management">
 
 
     <title>VAC Softteck</title>
@@ -90,10 +90,10 @@ include "../assets/load.php";
                     </div>
                     <div class="col-lg-5 wow fadeInUp py-5 pb-0" data-aos="fade-right">
 
-                        <p class="mb-3 text-dark fs-5">Customer Relationship Management (CRM) is a term that refers to
+                        <p class="mb-3 text-dark fs-5">CRM (Customer Relationship Management) is a term that refers to
                             practices, strategies and technologies to analyze customer interaction and data throughout
-                            the customer life cycle.. The aim of CRM is to improve customer service relationships and
-                            assist enterprises in customer retention and drive sales growth. VAC CRM software
+                            the customer life cycle.. The aim of Sales CRM is to improve customer service relationships and
+                            assist enterprises in customer retention and drive sales growth. VAC Customer Relationship Management software 
                             consolidates customer information and documents into a single CRM database so that business
                             users can more easily access and manage it. Automating various work flow processes, such as
                             tasks, calendars and alerts, allows managers the ability to track performance and
@@ -169,7 +169,7 @@ include "../assets/load.php";
                             </div>
                             <p class="mb-3 text-light fs-5">There will be a clear visibility over every opportunity which
                                 are
-                                created with thorough analysis of leads generated. Hence, with VAC CRM, Sales Managers can
+                                created with thorough analysis of leads generated. Hence, with VAC CRM sales forecasting , Sales Managers can
                                 validate sales forecast much better and close to accuracy. Real-time info on revenue and
                                 budget variance ensures that decisions are based on accurate information, and, if required,
                                 corrective action can be taken earlier in the cycle when it has maximum impact.</p>
@@ -186,7 +186,7 @@ include "../assets/load.php";
                             </div>
                             <p class="mb-0 fs-5">A Sales Quote creates a binding between you and your prospective
                                 client in terms of sharing the product, its pricing and the terms. Generating and sharing a
-                                quote with your customer will be very easy with VAC CRM. Data of all products and its
+                                quote with your customer will be very easy with VAC CRM, including CRM sales forecasting . Data of all products and its
                                 pricing can be stored in our CRM with respective tax slabs. This allows you to prepare
                                 various flavors of quotes, with and without tax/discounts etc. Quotes prepared can be sent
                                 to customers by mail, automatically, in PDF format.
@@ -213,11 +213,9 @@ include "../assets/load.php";
                             <div class="section-title position-relative " data-wow-delay="0.1s">
                                 <h3 class="mt-2 text-start text-light ">Invoice :</h3>
                             </div>
-                            <p class="mb-0 text-light fs-5">The capacity to generate invoices, is like an icing on the cake.
-                                You are almost at the top of your lead to conversion management using VAC CRM as you can
-                                convert your quote to invoice. The approval process allows you to ensure the approval from
-                                respective departments and share it with the customer. Invoices prepared can be sent to
-                                customers by mail, automatically, in PDF format.
+                            <p class="mb-0 text-light fs-5">The capacity to generate invoices using the VAC CRM invoice system  is like an icing on the cake.
+                                 You are almost at the top of your lead to conversion management using VAC CRM as you can convert your quote to invoice using the CRM invoice system.  The approval process allows you to ensure the approval from respective departments and share it with the customer.
+                                 Invoices prepared can be sent to customers by mail, automatically, in PDF format
                             <p>
                         </div>
                     </div>
@@ -310,16 +308,13 @@ include "../assets/load.php";
                     <div class="row g-5 bg-primary mt-3" data-wow-delay="0.1s" style="border-radius: 20px;">
                         <div class="col-lg-7 wow fadeInRight py-3 " data-wow-delay="0.1s">
                             <p class="mb-3 text-light fs-5" data-aos="fade-right">
-                                The goal of real estate management is to maximize the value of the property and ensure its
-                                smooth operation. This requires a good understanding of the local real estate market, as
-                                well as the ability to make informed decisions about various aspects of property management,
-                                such as tenant selection, rent pricing, and maintenance and repair costs.
-                            </p>
+                            The goal of real estate management  software is to maximize the value of the property and ensure its smooth operation.
+                             This requires a good understanding of the local real estate market, as well as the ability to make informed decisions about various aspects of property management, such as tenant selection, rent pricing, and maintenance and repair costs.
                             <div class="row g-3">
                                 <div class="col-sm-6">
                                     <ul class="text-light fs-5" data-aos="fade-down">
                                         <li>Real estate management is the administration and control of real property</li>
-                                        <li>Typically commercial or residentiale</li>
+                                        <li>Typically commercial or residential </li>
                                         <li>Allows more time to sell</li>
                                         <li>It involves overseeing</li>
                                         <li>Coordinating various tasks related to the maintenance</li>
@@ -339,7 +334,7 @@ include "../assets/load.php";
                         </div>
                         <div class="col-lg-5 wow fadeInUp py-3" data-wow-delay="0.1s">
                             <p class="mb-3 text-light fs-5" data-aos="fade-left">
-                                Effective real estate management can help owners and investors achieve their financial goals
+                            Effective real estate CRM  can help owners and investors achieve their financial goals
                                 by increasing property value, reducing costs, and minimizing vacancies. It can also improve
                                 the quality of life for tenants by ensuring a well-maintained and safe living or working
                                 environment.
