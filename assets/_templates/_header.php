@@ -128,10 +128,26 @@
                         </ul>
                     </div>
                 </li>
-                <li><a class="nav-link scrollto" href="casestudy.php">Case Studies</a></li>
+		<li>
+			<div class="dropdown">
+                        <a href="" class="nav-link scrollto" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                            Resources
+                        </a>
+			</div>
+			<ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+				<div class="dropdown">
+					<li><a class="nav-link scrollto" href="casestudy.php">Case Studies</a></li>
+				</div>
+				<div class="dropdown">
+					<li><a class="nav-link scrollto" href="https://www.indeed.com/cmp/Vac-Softteck">Careers</a></li>
+				</div>
+			</ul>
+		</li>
+                <!--<li><a class="nav-link scrollto" href="casestudy.php">Case Studies</a></li>-->
                 <!-- <li><a class="nav-link scrollto" href="https://rzp.io/l/iVdsUnsNS">Online Payment</a></li> -->
                 <!-- <li><a class="nav-link scrollto" href="../../price.php">Pricing</a></li> -->
                 <li><a class="nav-link scrollto" href="../../#contact">Contact Us</a></li>
+                <!--<li><a class="nav-link scrollto" href="https://demo.vacsoftteck.net/">Demo</a></li>-->
                 <div class="payment-button">
                     <form>
                         <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_LHOoj3iWrDaQ3k" async> </script>
@@ -143,6 +159,7 @@
 
 
         </nav>
+	<div>
+        <a href="https://demo.vacsoftteck.net/"><button class="demobtn">Demo</button></a></div>
     </div>
-
 </header>
