@@ -37,7 +37,7 @@ include "assets/load.php";
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css?v=1" rel="stylesheet">
+  <link href="assets/css/style.css?v=<?php echo rand(); ?>" rel="stylesheet">
 
 
 <!-- Google Tag Manager -->
