@@ -398,7 +398,7 @@
             <div class="product-card filter-app" data-aos="fade-up">
               <div class=img>
                 <a href="#popup1">
-                  <img src="https://img.freepik.com/free-vector/flat-customer-support-illustration_23-2148899114.jpg?w=740&t=st=1669723616~exp=1669724216~hmac=a047248cae899de0758c6a0833da3dff956011bc6218354ad2ea42e64528f48c" alt="VAC Dialer">
+                  <img src="images/ccd.png" alt="VAC Dialer">
               </div>
               <div class="details">
                 <h2>Call Center Dialer</h2>
