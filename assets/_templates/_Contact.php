@@ -49,7 +49,7 @@
                             <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
                         </div>
                         <div class="col-md-6 form-group mt-3 mt-md-0">
-                            <input type="text" class="form-control" name="company" placeholder="Organization" required>
+                            <input type="text" class="form-control" name="company" placeholder="organization" required>
                         </div>
                         <div class="col-md-6 form-group mt-3 mt-md-0">
                             <input type="number" class="form-control" name="phone" id="phone" placeholder="Your Number" required>
