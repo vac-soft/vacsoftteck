@@ -2,7 +2,6 @@
 <div class="card-bg py-5 ">
   <section id="Solutions" class="portfolio section-bg">
     <div class="section-title">
-      <br>
       <h2>Solutions</h2>
     </div>
     <!-- VAC Dialer -->
@@ -548,7 +547,7 @@
             <div class="product-card">
               <div class=img>
                 <a href="#VACWAC">
-                  <img src="./images/vacwac.png" alt="VAC Whatsapp Connect">
+                  <img src="../images/vacwac.png" alt="VAC Whatsapp Connect">
               </div>
               <div class="details">
                 <h2>VAC Whatsap Connect</h2>

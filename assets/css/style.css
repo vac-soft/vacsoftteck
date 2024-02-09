@@ -401,24 +401,13 @@ h6 {
     margin-left: 5px;
 }
 
-/* .navbar a:hover,   UPDATED*/  
+.navbar a:hover,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
     color: #000;
-    /* font-size: 20px; */
-    /* text-shadow: 1px 1px seashell; */
-    
-}
-
-#nav-scroll2:hover{
-    color:#000;
     font-size: 20px;
-}
-.navbar a:hover{   
-    font-weight: bold; 
-    color: #000;
-    
+    /* text-shadow: 1px 1px seashell; */
 }
 
 .navbar .dropdown ul {
