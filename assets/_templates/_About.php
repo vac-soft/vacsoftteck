@@ -1,7 +1,8 @@
 <section id="about" class="about py5">
   <div class="container py-5">
     <div class="section-title" data-aos="fade-up">
-      <div class="phonenum"><i class="bi bi-telephone"> </i> : <a href="tel:044-35109600">044-35109600</a> / <a href="tel:044-43512000">044-43512000</a> <i class="bi bi-phone"></i> : <a href="tel:9884862743">9884862743</a> </div>
+      <br>
+      <div class="phonenum" style="color:white"><i class="bi bi-telephone" style="color:white"> </i> : <a href="tel:044-35109600">044-35109600</a> / <a href="tel:044-43512000">044-43512000</a> <i class="bi bi-phone" style="color:white"></i> : <a href="tel:9884862743">9884862743</a> </div>
       <br>
       <h2>About Us</h2>
       <p class="abt-para">CRM and Calling Solution Software,</p>
@@ -10,7 +11,7 @@
       <p class="abt-para">AND to yield better results.</p>
     </div>
 
-    <div class="row">
+    <div class="row" style="color:white;">
       <div class="col-lg-6" data-aos="fade-right">
         <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
           <h3>We</h3>
