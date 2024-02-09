@@ -1,18 +1,3 @@
-/*//
-var getVariable = (new URLSearchParams(window.location.search)).get('ref');
-var myGlobalVariable;
-if (getVariable !== null && getVariable !== '') {
-    myGlobalVariable = getVariable;
-    localStorage.setItem('myGlobalVariable', myGlobalVariable);
-
-} else {
-    myGlobalVariable = localStorage.getItem('myGlobalVariable') || 'vacwebsite';
-}
-
-console.log('myGlobalVariable:', myGlobalVariable);
-document.getElementById('ref').value = myGlobalVariable;
-*/
-
 (function() {
   "use strict";
 
