@@ -40,7 +40,7 @@
 
             <div class="col-lg-8 mt-5 mt-lg-0">
 
-                <form action=""   role="form" class="php-email-form" data-aos="fade-left">
+                <form action="https://vex.vaccrm.com/VAC/api/vacweblead.php"   role="form" class="php-email-form" data-aos="fade-left" method="get">
                     <div class="row">
                         <div class="col-md-6 form-group">
                             <input type="text" name="lastname" class="form-control" id="name" placeholder="Your Name" required>
@@ -60,6 +60,7 @@
                     </div> -->
                     <div class="form-group mt-3">
                         <textarea class="form-control" name="description" rows="5" placeholder="Description" required></textarea>
+			<input type="hidden" class="form-control" name="ref" id="ref" value="<?php echo $_SESSION['ref']; ?>">
                     </div>
                     <div class="my-3">
                         <div class="loading">Loading</div>
@@ -75,7 +76,7 @@
 
     </div>
 </section>
-<?php
+<?php/*
 		if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 
             $lastname = $_GET['lastname'];
@@ -83,9 +84,24 @@
 			$company = $_GET['company'];
 			$phone = $_GET['phone'];
 			$description = $_GET['description'];
-            file_get_contents("https://vex.vaccrm.com/VAC/api/vacweblead.php?lastname=$lastname&email=$email&company=$comapny&phone=$phone&description=$description");
+            file_get_contents("https://vex.vaccrm.com/VAC/api/vacweblead.php?lastname=$lastname&email=$email&company=$company&phone=$phone&description=$description");
             // echo "echo '<script type="text/javascript">';
             // echo ' alert("JavaScript Alert Box by PHP")';  //not showing an alert box.
             // echo '</script>'"
         }
-	?>
+*/	?>
+
+ <script>
+        // JavaScript code to check the URL and show the 'contactSection' if necessary
+        document.addEventListener("DOMContentLoaded", function() {
+            // Get the current URL fragment identifier
+            var currentFragment = window.location.hash;
+
+            // Check if the fragment is '#contact'
+            if (currentFragment === '#contact') {
+                // Show the 'contactSection' div
+                document.getElementById('sent-message').style.display = 'block';
+            }
+        });
+    </script>
+
