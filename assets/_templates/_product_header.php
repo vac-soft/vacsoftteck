@@ -607,7 +607,7 @@
                         </div>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                                 <div class="dropdown">
-                                        <li><a class="nav-link scrollto" href="casestudy.php" id="nav-scroll2">Case Studies</a></li>
+                                        <li><a class="nav-link scrollto" href="../casestudy.php" id="nav-scroll2">Case Studies</a></li>
                                 </div>
                                 <div class="dropdown">
                                         <li><a class="nav-link scrollto" href="https://www.indeed.com/cmp/Vac-Softteck" id="nav-scroll2">Careers</a></li>
