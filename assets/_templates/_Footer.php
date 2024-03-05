@@ -35,6 +35,10 @@
     </div>
 
     <div class="container footer-bottom clearfix">
+        <div class="Privacy-policy" style="text-align:center;margin-top:-3%;">
+            <a href="_Privacy_policy.php" style="text-transform: none;">Privacy Policy </a>
+
+         </div><br>
         <div class="copyright">
             Copyright &copy; <strong><span>VAC SOFTTECK LLP</span></strong>. All Rights Reserved
         </div>
